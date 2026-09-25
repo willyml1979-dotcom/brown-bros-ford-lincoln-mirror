@@ -1,7 +1,7 @@
 {
   "dealership": "Brown Bros Ford Lincoln",
-  "generated_at": "2026-09-24T16:55:33",
-  "vehicle_count": 278,
+  "generated_at": "2026-09-25T16:30:54",
+  "vehicle_count": 277,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -23,7 +23,17 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/a9a79d2b370c.html",
       "source_url": "https://www.brownbrosford.com/inventory/2015-hyundai-genesis-coupe-gt-1NVWGDB5RtyXvkcBXIyRJgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2015-hyundai-genesis-coupe-gt-1NVWGDB5RtyXvkcBXIyRJgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:56:08",
+      "last_verified": "2026-09-25T16:28:27",
+      "condition": "used"
+    },
+    {
+      "name": "2017FordEdge4dr Titanium AWD",
+      "vin": "2FMPK4K95HBC56684",
+      "stock": "256652A",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/e24333b919d2.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2017-ford-edge-titanium-u9TPy0gJRgyD4fUmv2Kiswvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2017-ford-edge-titanium-u9TPy0gJRgyD4fUmv2Kiswvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T16:27:55",
       "condition": "used"
     },
     {
@@ -34,7 +44,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/da5cb8540e38.html",
       "source_url": "https://www.brownbrosford.com/inventory/2018-ford-f-150-NQhDK0TfQpmT2bXvmv8Ojgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2018-ford-f-150-NQhDK0TfQpmT2bXvmv8Ojgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:56:20",
+      "last_verified": "2026-09-25T16:28:39",
       "condition": "used"
     },
     {
@@ -57,6 +67,16 @@
       "source_url": "https://www.brownbrosford.com/inventory/2019-jeep-grand-cherokee-high-altitude-xwsojpA1SKamXjNJIqRG9wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2019-jeep-grand-cherokee-high-altitude-xwsojpA1SKamXjNJIqRG9wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T15:56:41",
+      "condition": "used"
+    },
+    {
+      "name": "2020AudiS5 CoupeTechnik 3.0 Tfsi quattroAWD",
+      "vin": "WAUR4AF51LA002484",
+      "stock": "264109A",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/803e892db602.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2020-audi-s5-coupe-technik-kUSbssPbQYaEB3yeR6wvOgvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2020-audi-s5-coupe-technik-kUSbssPbQYaEB3yeR6wvOgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T16:28:07",
       "condition": "used"
     },
     {
@@ -99,7 +119,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/b7b9aa89d0a3.html",
       "source_url": "https://www.brownbrosford.com/inventory/2021-ford-mustang-O4SNE1njTPG37lyYBkZZ1gvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2021-ford-mustang-O4SNE1njTPG37lyYBkZZ1gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:57:25",
+      "last_verified": "2026-09-25T16:29:41",
       "condition": "used"
     },
     {
@@ -110,7 +130,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/e87b6f76a10c.html",
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-IbZVP2NbQaKrapBAv7UhaQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-IbZVP2NbQaKrapBAv7UhaQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:57:35",
+      "last_verified": "2026-09-25T16:29:53",
       "condition": "used"
     },
     {
@@ -121,7 +141,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/203b1b26c229.html",
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-Xq0xUrQ2Rp6j7PFKah0ipQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-Xq0xUrQ2Rp6j7PFKah0ipQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:57:45",
+      "last_verified": "2026-09-25T16:30:04",
       "condition": "used"
     },
     {
@@ -132,7 +152,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/fabed847617f.html",
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-Y30NIgNtQOGTyUlLxO80zwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-Y30NIgNtQOGTyUlLxO80zwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:57:57",
+      "last_verified": "2026-09-25T16:30:15",
       "condition": "used"
     },
     {
@@ -143,7 +163,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/e50a13eae28a.html",
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-outer-banks-41nZgwI6TRageHBFz1LdYwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-outer-banks-41nZgwI6TRageHBFz1LdYwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:58:08",
+      "last_verified": "2026-09-25T16:30:28",
       "condition": "used"
     },
     {
@@ -224,17 +244,6 @@
       "condition": "used"
     },
     {
-      "name": "2023FordExplorerST 4WD401AEquipment Group High Package4x4",
-      "vin": "1FM5K8GC2PGA30838",
-      "stock": "OP26444",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/67bc8a3baa96.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2023-ford-explorer-st-iahkPCfNToSGecaRrSYe4gvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-explorer-st-iahkPCfNToSGecaRrSYe4gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:59:30",
-      "condition": "used"
-    },
-    {
       "name": "2023FordF-150XL 4WD Supercrew 5.5' Box4x4Crew Cab",
       "vin": "1FTFW1E88PKE78825",
       "stock": "OP26317",
@@ -287,17 +296,6 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-chevrolet-colorado-4wd-zr2-srza4AhDSROTqXq9gCy21wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-chevrolet-colorado-4wd-zr2-srza4AhDSROTqXq9gCy21wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:00:22",
-      "condition": "used"
-    },
-    {
-      "name": "2024FordBroncoBig Bend 4 Door 4x4",
-      "vin": "1FMDE7BH4RLA32245",
-      "stock": "OP26361",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/13b2ec5326f8.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-big-bend-4ubMAq1SRzSILVBeIOxbrAvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-big-bend-4ubMAq1SRzSILVBeIOxbrAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:00:32",
       "condition": "used"
     },
     {
@@ -473,17 +471,6 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-f-150-lightning-lariat-86SMY8ATSTaBhhCQlrMFYgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-f-150-lightning-lariat-86SMY8ATSTaBhhCQlrMFYgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:03:28",
-      "condition": "used"
-    },
-    {
-      "name": "2025FordMaverickXLT AWD SupercrewCrew Cab",
-      "vin": "3FTTW8JA1SRB10446",
-      "stock": "OP26403",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/719f0bbcd934.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2025-ford-maverick-xlt-JewAeU61Q56a24Y7UrUatQvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-maverick-xlt-JewAeU61Q56a24Y7UrUatQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:03:38",
       "condition": "used"
     },
     {
