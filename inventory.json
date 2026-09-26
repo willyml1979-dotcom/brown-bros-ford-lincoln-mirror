@@ -1,7 +1,7 @@
 {
   "dealership": "Brown Bros Ford Lincoln",
-  "generated_at": "2026-09-25T17:07:35",
-  "vehicle_count": 277,
+  "generated_at": "2026-09-26T16:37:33",
+  "vehicle_count": 276,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -45,17 +45,6 @@
       "source_url": "https://www.brownbrosford.com/inventory/2018-ford-f-150-NQhDK0TfQpmT2bXvmv8Ojgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2018-ford-f-150-NQhDK0TfQpmT2bXvmv8Ojgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T16:28:39",
-      "condition": "used"
-    },
-    {
-      "name": "2019FordEscapeTitanium 4WD400AEquipment Group4x4",
-      "vin": "1FMCU9J93KUA27316",
-      "stock": "OP26370",
-      "color": "Blue",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/0ea2a8a287d4.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2019-ford-escape-titanium-sqFNxc8mSraS9i9bad2z8gvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2019-ford-escape-titanium-sqFNxc8mSraS9i9bad2z8gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:56:32",
       "condition": "used"
     },
     {
@@ -218,7 +207,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/36a5f015e973.html",
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-f-150-raptor-ZQn8kdYPTMW4GMTPJWdwGgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-f-150-raptor-ZQn8kdYPTMW4GMTPJWdwGgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:58:59",
+      "last_verified": "2026-09-26T16:35:29",
       "condition": "used"
     },
     {
@@ -229,7 +218,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/4ddbc720284a.html",
       "source_url": "https://www.brownbrosford.com/inventory/2023-ford-bronco-qmsMi5yWQ52sqR2DuWAB0wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-bronco-qmsMi5yWQ52sqR2DuWAB0wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:59:10",
+      "last_verified": "2026-09-26T16:35:37",
       "condition": "used"
     },
     {
@@ -240,7 +229,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/7db8f7d2bf03.html",
       "source_url": "https://www.brownbrosford.com/inventory/2023-ford-escape-st-line-rTpssLXbTSSqcUPkv0piHQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-escape-st-line-rTpssLXbTSSqcUPkv0piHQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:59:21",
+      "last_verified": "2026-09-26T16:35:48",
       "condition": "used"
     },
     {
@@ -262,7 +251,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/9262cd061905.html",
       "source_url": "https://www.brownbrosford.com/inventory/2023-lincoln-nautilus-reserve-4klypRaFS2GfxZAoKNjn8wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2023-lincoln-nautilus-reserve-4klypRaFS2GfxZAoKNjn8wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:59:51",
+      "last_verified": "2026-09-26T16:36:07",
       "condition": "used"
     },
     {
@@ -317,7 +306,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/4bc1ee7eaacd.html",
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-big-bend-6rLv4RB2QEOIdMroMGCTSQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-big-bend-6rLv4RB2QEOIdMroMGCTSQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:00:56",
+      "last_verified": "2026-09-26T16:36:56",
       "condition": "used"
     },
     {
@@ -328,7 +317,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/8ec4dc4abb2a.html",
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-outer-banks-sC2a7YHKT8yGo5K2H86z7wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-outer-banks-sC2a7YHKT8yGo5K2H86z7wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:01:07",
+      "last_verified": "2026-09-26T16:37:07",
       "condition": "used"
     },
     {
@@ -350,7 +339,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/5fe6eef2d00e.html",
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-DdvWGUcASn6Fq98ewTSAHAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-DdvWGUcASn6Fq98ewTSAHAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:01:29",
+      "last_verified": "2026-09-26T16:37:29",
       "condition": "used"
     },
     {
