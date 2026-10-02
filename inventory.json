@@ -1,7 +1,7 @@
 {
   "dealership": "Brown Bros Ford Lincoln",
-  "generated_at": "2026-09-26T17:20:30",
-  "vehicle_count": 278,
+  "generated_at": "2026-10-02T16:26:51",
+  "vehicle_count": 267,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -595,6 +595,17 @@
       "condition": "used"
     },
     {
+      "name": "2022FordF-1504x4Crew Cab",
+      "vin": "1FTFW1ED6NFA36791",
+      "stock": "OP26454",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f0f44b92c12d.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2022-ford-f-150-LTl7HkuMQfOOpMxV9O1UFwvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-f-150-LTl7HkuMQfOOpMxV9O1UFwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:22:45",
+      "condition": "new"
+    },
+    {
       "name": "2024FordBronco SportBadlands 4x4400AEquipment Group",
       "vin": "3FMCR9D91RRE98346",
       "stock": "246846",
@@ -603,6 +614,16 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-badlands-XsgBP8EdQqGFriXh3NWx3Qvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-badlands-XsgBP8EdQqGFriXh3NWx3Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:14:24",
+      "condition": "new"
+    },
+    {
+      "name": "2024FordF-150XLT4x4Crew Cab",
+      "vin": "1FTFW3L88RKF37759",
+      "stock": "XP26475",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/db9dd0da42b2.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-sqRAqiNpQjOPX4VpIOyFTgvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-sqRAqiNpQjOPX4VpIOyFTgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:22:56",
       "condition": "new"
     },
     {
@@ -661,6 +682,17 @@
       "condition": "new"
     },
     {
+      "name": "2025FordEscapeActive AWD200AEquipment Group",
+      "vin": "1FMCU9GN8SUA95681",
+      "stock": "256381",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/58cfe16cb098.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2025-ford-escape-active-BW06twgeQgySCZGhZnV2Twvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-escape-active-BW06twgeQgySCZGhZnV2Twvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:23:06",
+      "condition": "new"
+    },
+    {
       "name": "2025FordEscapeActive FWD200AEquipment Group",
       "vin": "1FMCU0GN2SUB49178",
       "stock": "256683",
@@ -716,17 +748,6 @@
       "condition": "new"
     },
     {
-      "name": "2026FordBroncoBadlands 2 Door 4x4334AEquipment Group Lux Package",
-      "vin": "1FMDE9AH6TLA47477",
-      "stock": "26676",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/367ba234193c.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-badlands-9O0tYFomSZ2OnSSHRWvGFAvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-badlands-9O0tYFomSZ2OnSSHRWvGFAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:16:20",
-      "condition": "new"
-    },
-    {
       "name": "2026FordBroncoBig Bend 4 Door 4x4222AEquipment Group Mid Package",
       "vin": "1FMEE7BH4TLA77598",
       "stock": "266389",
@@ -739,17 +760,6 @@
     },
     {
       "name": "2026FordBroncoBig Bend 4 Door 4x4222AEquipment Group Mid Package",
-      "vin": "1FMDE7BH4TLA75202",
-      "stock": "266391",
-      "color": "Red",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/b298c45c3ac7.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-big-bend-dJCU7MYKRpazIEKuBWNhIAvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-big-bend-dJCU7MYKRpazIEKuBWNhIAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:16:41",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordBroncoBig Bend 4 Door 4x4222AEquipment Group Mid Package",
       "vin": "1FMEE7BHXTLB56208",
       "stock": "266457",
       "color": "Black",
@@ -757,17 +767,6 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-big-bend-h7vyLbGjQ9GPVDAwL36MvQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-big-bend-h7vyLbGjQ9GPVDAwL36MvQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:07:29",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordBroncoBig Bend 4 Door 4x4222AEquipment Group Mid Package",
-      "vin": "1FMEE7BH1TLA61987",
-      "stock": "266266",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/68872ad3c7ab.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-big-bend-u908TUrLQvC4SUVSrVof3wvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-big-bend-u908TUrLQvC4SUVSrVof3wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:17:12",
       "condition": "new"
     },
     {
@@ -838,17 +837,6 @@
     },
     {
       "name": "2026FordBronco SportBadlands 4x4400AEquipment Group",
-      "vin": "3FMCR9DA7TRE10787",
-      "stock": "266589",
-      "color": "Red",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/92c84817d8b7.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-badlands-m9t8IInhRcKpWGJahp1dXwvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-badlands-m9t8IInhRcKpWGJahp1dXwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T17:19:11",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordBronco SportBadlands 4x4400AEquipment Group",
       "vin": "3FMCR9DA9TRE69839",
       "stock": "266507",
       "color": "Black",
@@ -856,17 +844,6 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-badlands-uBxexD0fRMSIbpUgqGZufAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-badlands-uBxexD0fRMSIbpUgqGZufAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T17:19:22",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordBronco SportBig Bend 4x4200AEquipment Group Standard Package",
-      "vin": "3FMCR9BNXTRF12087",
-      "stock": "266866",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/dcec5a92ebd2.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-big-bend-1vxC72zTSxe26OWCK7eggwvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-big-bend-1vxC72zTSxe26OWCK7eggwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T17:19:31",
       "condition": "new"
     },
     {
@@ -882,17 +859,6 @@
     },
     {
       "name": "2026FordBronco SportBig Bend 4x4200AEquipment Group Standard Package",
-      "vin": "3FMCR9BN1TRE84776",
-      "stock": "266909",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/3a854e83878c.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-big-bend-XCyLFLUxRHiBNJ40O7b61Avdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-big-bend-XCyLFLUxRHiBNJ40O7b61Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:19:07",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordBronco SportBig Bend 4x4200AEquipment Group Standard Package",
       "vin": "3FMCR9BN6TRE19034",
       "stock": "266105",
       "color": "Orange",
@@ -900,17 +866,6 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-big-bend-jFHkRP0sSJmyQQHmX1Cvvgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-big-bend-jFHkRP0sSJmyQQHmX1Cvvgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:19:19",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordBronco SportBig Bend 4x4200AEquipment Group Standard Package",
-      "vin": "3FMCR9BNXTRE10157",
-      "stock": "266106",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/96666224366d.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-big-bend-jZkXekbSRnevfYBuzFAuTgvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-big-bend-jZkXekbSRnevfYBuzFAuTgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:19:30",
       "condition": "new"
     },
     {
@@ -932,7 +887,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/bd1d1113cb74.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-1XQaRuqzTOGfPCT4PTi3bQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-1XQaRuqzTOGfPCT4PTi3bQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:19:52",
+      "last_verified": "2026-10-02T16:24:06",
       "condition": "new"
     },
     {
@@ -943,7 +898,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/6af5e7fd8497.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-JlAsD8hFQsK17kbd97uWHQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-JlAsD8hFQsK17kbd97uWHQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:20:02",
+      "last_verified": "2026-10-02T16:24:18",
       "condition": "new"
     },
     {
@@ -954,7 +909,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/58ad00744740.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-RtqbVbTuTIyO66cbTYfGwAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-RtqbVbTuTIyO66cbTYfGwAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:20:13",
+      "last_verified": "2026-10-02T16:24:28",
       "condition": "new"
     },
     {
@@ -965,7 +920,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/2f05b534c7a9.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-VZlO6wcOSWauZy6qwmedfQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-VZlO6wcOSWauZy6qwmedfQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:20:26",
+      "last_verified": "2026-10-02T16:24:40",
       "condition": "new"
     },
     {
@@ -976,18 +931,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/96a94625b897.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-egnsBnmTRAmn9DaXBrlm2Qvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-egnsBnmTRAmn9DaXBrlm2Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:20:36",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordExplorerActive w/200A Pkg 4WD200AEquipment Group Standard Package4x4",
-      "vin": "1FMUK8DH0TGC08395",
-      "stock": "266641",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ae7ba6ecdefc.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-explorer-active-w-200a-pkg-px3mJZNrT7WgFuahTPju5gvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-explorer-active-w-200a-pkg-px3mJZNrT7WgFuahTPju5gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:20:46",
+      "last_verified": "2026-10-02T16:24:50",
       "condition": "new"
     },
     {
@@ -999,6 +943,17 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-explorer-st-YGQnnMD0Sku5uVNhIF63CQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-explorer-st-YGQnnMD0Sku5uVNhIF63CQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:04:39",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordExplorerST-Line 4WD300AEquipment Group Standard Package4x4",
+      "vin": "1FMUK8KH4TGB32618",
+      "stock": "26669",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/79939f359ba6.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-explorer-st-line-zV7KBqPtTfOIopvPkiQYYAvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-explorer-st-line-zV7KBqPtTfOIopvPkiQYYAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:23:19",
       "condition": "new"
     },
     {
@@ -1020,7 +975,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/725d47cca84c.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-5v74HRX3QqyZOXdIH3llrAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-5v74HRX3QqyZOXdIH3llrAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:21:00",
+      "last_verified": "2026-10-02T16:25:03",
       "condition": "new"
     },
     {
@@ -1031,18 +986,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/0c055ff675e4.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-7HVCpzKUQHCOuR4UqSf5ZAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-7HVCpzKUQHCOuR4UqSf5ZAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:21:11",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
-      "vin": "1FTFW5L88TKE48860",
-      "stock": "266724",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/7771d9688d0f.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-ARkQ2kvBRd26VQuAEiX6sAvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-ARkQ2kvBRd26VQuAEiX6sAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:21:20",
+      "last_verified": "2026-10-02T16:25:13",
       "condition": "new"
     },
     {
@@ -1053,7 +997,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/5bbd26daa0fa.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-BUmT8ugoTOSke0J5pU4Fygvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-BUmT8ugoTOSke0J5pU4Fygvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:21:43",
+      "last_verified": "2026-10-02T16:25:23",
       "condition": "new"
     },
     {
@@ -1064,7 +1008,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/dd713a9103fe.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-ElzQ8JJmQnyTt388nvV2mAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-ElzQ8JJmQnyTt388nvV2mAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:21:53",
+      "last_verified": "2026-10-02T16:25:35",
       "condition": "new"
     },
     {
@@ -1075,7 +1019,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/108ad17a18bc.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-GdHklKX6RuaYZhc8kOmYegvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-GdHklKX6RuaYZhc8kOmYegvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:22:03",
+      "last_verified": "2026-10-02T16:25:47",
       "condition": "new"
     },
     {
@@ -1086,7 +1030,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/3716e4fc8ca5.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-Ik2lfMY0SJ2mUbRD4PDLzQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-Ik2lfMY0SJ2mUbRD4PDLzQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:22:14",
+      "last_verified": "2026-10-02T16:25:59",
       "condition": "new"
     },
     {
@@ -1097,7 +1041,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/1a28ea582f91.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-QzhIZLLMTjCzssgWub3Nxwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-QzhIZLLMTjCzssgWub3Nxwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:22:26",
+      "last_verified": "2026-10-02T16:26:10",
       "condition": "new"
     },
     {
@@ -1108,7 +1052,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/51f8002222d9.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-XrfaDSDBTquQUagDIJwSIwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-XrfaDSDBTquQUagDIJwSIwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:22:37",
+      "last_verified": "2026-10-02T16:26:21",
       "condition": "new"
     },
     {
@@ -1119,7 +1063,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/6c0b9c99bf85.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-dcrQu7muSRmV1sORlNhxRgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-dcrQu7muSRmV1sORlNhxRgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:22:48",
+      "last_verified": "2026-10-02T16:26:31",
       "condition": "new"
     },
     {
@@ -1130,7 +1074,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/722f39818c1e.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-eNFrXQL0SzunRIqjNEy1twvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-eNFrXQL0SzunRIqjNEy1twvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:23:00",
+      "last_verified": "2026-10-02T16:26:44",
       "condition": "new"
     },
     {
@@ -1399,6 +1343,17 @@
     },
     {
       "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box200A-0Equipment Group 200A Mid4x4Crew Cab",
+      "vin": "1FTEW2L5XTFA44791",
+      "stock": "266537",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/d8c6585870d3.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-stx-0ytdIdCJQWqayPSTnWemegvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-stx-0ytdIdCJQWqayPSTnWemegvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:23:31",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box200A-0Equipment Group 200A Mid4x4Crew Cab",
       "vin": "1FTEW2LP7TKE21571",
       "stock": "266261",
       "color": "Black",
@@ -1486,6 +1441,17 @@
       "condition": "new"
     },
     {
+      "name": "2026FordF-150XLT 4WD Supercrew 6.5' Box301A-0Equipment Group 301A Standard4x4Crew Cab",
+      "vin": "1FTFW3LD8TFC22375",
+      "stock": "266880",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/4565960046cc.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-4t5r3rXpRYCuhsK0J19KJgvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-4t5r3rXpRYCuhsK0J19KJgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:23:44",
+      "condition": "new"
+    },
+    {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
       "vin": "1FTFW3LD8TFA36030",
       "stock": "266301",
@@ -1527,17 +1493,6 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-APyzpAeCT0qRbmaTHcAItwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-APyzpAeCT0qRbmaTHcAItwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:30:06",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
-      "vin": "1FTFW3L81TFB54438",
-      "stock": "266746",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f0727a15c6df.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-AprAyf2wSr61ux3f7wwergvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-AprAyf2wSr61ux3f7wwergvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:30:18",
       "condition": "new"
     },
     {
@@ -1761,6 +1716,17 @@
       "condition": "new"
     },
     {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box301A-0Equipment Group 301A Standard4x4Crew Cab",
+      "vin": "1FTFW3LD0TFC22841",
+      "stock": "266881",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/0e01d20424cb.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-hXcjCWgcR4mUWKBWUSqmSAvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-hXcjCWgcR4mUWKBWUSqmSAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:23:55",
+      "condition": "new"
+    },
+    {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
       "vin": "1FTFW3L84TFB54868",
       "stock": "266747",
@@ -1893,17 +1859,6 @@
       "condition": "new"
     },
     {
-      "name": "2026FordMaverickLariat AWD Supercrew501AEquipment GroupCrew Cab",
-      "vin": "3FTTW8S39TRB32664",
-      "stock": "266775",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f9a513bc1af7.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-maverick-lariat-AhsX1NP5QRuPEmEb4VxS7wvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-maverick-lariat-AhsX1NP5QRuPEmEb4VxS7wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:36:33",
-      "condition": "new"
-    },
-    {
       "name": "2026FordMaverickXLT AWD Supercrew301AEquipment GroupCrew Cab",
       "vin": "3FTTW8J36TRB31022",
       "stock": "266390",
@@ -1945,17 +1900,6 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-maverick-xlt-pEDF7Z90RnG3A4ULdfnlggvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-maverick-xlt-pEDF7Z90RnG3A4ULdfnlggvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:37:51",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordMaverickXLT AWD Supercrew301AEquipment GroupCrew Cab",
-      "vin": "3FTTW8J38TRB27862",
-      "stock": "266769",
-      "color": "Blue",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/c16c1f6cf178.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-maverick-xlt-sJWNge7NQaW5P45Ay5aitQvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-maverick-xlt-sJWNge7NQaW5P45Ay5aitQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:38:03",
       "condition": "new"
     },
     {
@@ -2080,16 +2024,6 @@
       "condition": "new"
     },
     {
-      "name": "2026FordMustangGT Fastback301AEquipment Group High PackageRWD",
-      "vin": "1FA6P8CF5T5414179",
-      "stock": "26464",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/3dec024e04b7.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-gt-sX0wTG3zQPGm3CH2a1UBOQvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-gt-sX0wTG3zQPGm3CH2a1UBOQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:40:08",
-      "condition": "new"
-    },
-    {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
       "vin": "3FMTK3SU0TMA09223",
       "stock": "26473",
@@ -2163,17 +2097,6 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-G4HUu7yFRayHm5G0xKDpAAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-G4HUu7yFRayHm5G0xKDpAAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:41:26",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
-      "vin": "3FMTK3SUXTMA21069",
-      "stock": "26472",
-      "color": "Tan",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/6c75a0ccd8cb.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-MaFuMnxtR7eEZrM1ZU044Avdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-MaFuMnxtR7eEZrM1ZU044Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:41:38",
       "condition": "new"
     },
     {
@@ -2529,17 +2452,6 @@
       "condition": "new"
     },
     {
-      "name": "2026FordRangerRaptor 4WD Supercrew 5' Box800AEquipment Group4x4Crew Cab",
-      "vin": "1FTER4LR0TLE31390",
-      "stock": "266664",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/57f4cf6ee56b.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-raptor-y4UF0p1bR0CJHIFVlsrMpwvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-raptor-y4UF0p1bR0CJHIFVlsrMpwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:47:48",
-      "condition": "new"
-    },
-    {
       "name": "2026FordRangerXL 4WD Supercrew 5' Box100AEquipment Group4x4Crew Cab",
       "vin": "1FTER4PH7TLE24082",
       "stock": "266384",
@@ -2548,17 +2460,6 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-xl-Jv8FRUxMT26MaJwGVEKKhAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-xl-Jv8FRUxMT26MaJwGVEKKhAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:47:59",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordRangerXL 4WD Supercrew 5' Box100AEquipment Group4x4Crew Cab",
-      "vin": "1FTER4PH6TLE34389",
-      "stock": "266523",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/852a2910719b.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-xl-uVw6uflzRVSN5tiV37mLOQvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-xl-uVw6uflzRVSN5tiV37mLOQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:48:11",
       "condition": "new"
     },
     {
@@ -2617,17 +2518,6 @@
       "condition": "new"
     },
     {
-      "name": "2026FordSuper Duty F-350 SRWXLT 4WD Crew Cab 8' Box613AOrder Code4x4",
-      "vin": "1FT8W3BT5TEF60095",
-      "stock": "266396",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/02df78772bae.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-super-duty-f-350-srw-xlt-BbYGlVdBT3STVCnK75oUrgvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-super-duty-f-350-srw-xlt-BbYGlVdBT3STVCnK75oUrgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:49:32",
-      "condition": "new"
-    },
-    {
       "name": "2026FordSuper Duty F-550 DRWXL 4WD Reg Cab 145\" WB 60\" Ca660AOrder Code4x4Regular",
       "vin": "1FDFF5HT7TDA15737",
       "stock": "266437",
@@ -2680,17 +2570,6 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-OCCnjWarRxKNeVhfTP0bcQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-OCCnjWarRxKNeVhfTP0bcQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:50:26",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordTransit Cargo VanT-350 148\" El Hi Rf 9500 Gvwr AWD101AOrder Code",
-      "vin": "1FTBW3UG1TKA53007",
-      "stock": "266243",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/968b03d566e2.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-Pk1gj8GqQGOzUQHy2u9HqQvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-Pk1gj8GqQGOzUQHy2u9HqQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:50:37",
       "condition": "new"
     },
     {
