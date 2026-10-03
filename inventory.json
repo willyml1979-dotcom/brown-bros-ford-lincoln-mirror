@@ -1,7 +1,7 @@
 {
   "dealership": "Brown Bros Ford Lincoln",
-  "generated_at": "2026-10-03T15:32:54",
-  "vehicle_count": 291,
+  "generated_at": "2026-10-03T16:36:59",
+  "vehicle_count": 289,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -1205,17 +1205,6 @@
       "condition": "new"
     },
     {
-      "name": "2026FordExplorerST 4WD400AEquipment Group Standard Package4x4",
-      "vin": "1FMWK8GC3TGB03083",
-      "stock": "266519",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f23bd2f53830.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-explorer-st-ujtHRcEUQkujAvyJEXtsHQvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-explorer-st-ujtHRcEUQkujAvyJEXtsHQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T17:16:14",
-      "condition": "new"
-    },
-    {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
       "vin": "1FTFW5L83TFB62164",
       "stock": "266494",
@@ -1333,7 +1322,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/a6b71a2373b7.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-edAGaAoHSUye5XjzKxNwYQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-edAGaAoHSUye5XjzKxNwYQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:23:11",
+      "last_verified": "2026-10-03T16:34:18",
       "condition": "new"
     },
     {
@@ -1344,7 +1333,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/fe51470cab50.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-f1xCCLEDRnimXQYrN4xzSgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-f1xCCLEDRnimXQYrN4xzSgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:23:22",
+      "last_verified": "2026-10-03T16:34:30",
       "condition": "new"
     },
     {
@@ -1355,7 +1344,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/5afa2b641d91.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-lOEPYOKlTiqkS4KqSKDdWgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-lOEPYOKlTiqkS4KqSKDdWgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:23:45",
+      "last_verified": "2026-10-03T16:34:41",
       "condition": "new"
     },
     {
@@ -1366,7 +1355,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/aa3957b53818.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-m7HzdFGjQy6nTqanMgfgfgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-m7HzdFGjQy6nTqanMgfgfgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:23:55",
+      "last_verified": "2026-10-03T16:34:52",
       "condition": "new"
     },
     {
@@ -1377,7 +1366,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/819d92ab0bbc.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-q8gt6bWmRGyzHmUoqVQv3wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-q8gt6bWmRGyzHmUoqVQv3wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:24:06",
+      "last_verified": "2026-10-03T16:35:02",
       "condition": "new"
     },
     {
@@ -1388,7 +1377,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/2edfc9d39ff1.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-qZPAgP58SmKdX762o72gjQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-qZPAgP58SmKdX762o72gjQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:24:16",
+      "last_verified": "2026-10-03T16:35:14",
       "condition": "new"
     },
     {
@@ -1399,7 +1388,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f8f91e4e7653.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-t5T3HLSCRXqkaeHAdWJtTQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-t5T3HLSCRXqkaeHAdWJtTQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:24:27",
+      "last_verified": "2026-10-03T16:35:25",
       "condition": "new"
     },
     {
@@ -1410,7 +1399,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cb3deb964733.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-tnQ723XxSPC5TG8lCYbIOgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-tnQ723XxSPC5TG8lCYbIOgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:24:37",
+      "last_verified": "2026-10-03T16:35:37",
       "condition": "new"
     },
     {
@@ -1421,7 +1410,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/588a385884fa.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-zenIwGe2SxCSIsRl45UWxgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-zenIwGe2SxCSIsRl45UWxgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:24:49",
+      "last_verified": "2026-10-03T16:35:48",
       "condition": "new"
     },
     {
@@ -1432,7 +1421,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/98b59047768a.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-zi6jrSaJSFmFoRVTLlD9IQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-zi6jrSaJSFmFoRVTLlD9IQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:25:00",
+      "last_verified": "2026-10-03T16:35:59",
       "condition": "new"
     },
     {
@@ -1443,18 +1432,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/e7f43b7dd013.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-platinum-1nArmz72TJeIzQTIgIumuAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-platinum-1nArmz72TJeIzQTIgIumuAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:25:12",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordF-150Platinum 4WD Supercrew 5.5' Box703AEquipment Group Plus4x4Crew Cab",
-      "vin": "1FTFW7LD6TFC05033",
-      "stock": "266178",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/4663d2612f49.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-platinum-CFkksmWhStW3GmcyqIpSPwvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-platinum-CFkksmWhStW3GmcyqIpSPwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:25:23",
+      "last_verified": "2026-10-03T16:36:10",
       "condition": "new"
     },
     {
@@ -1465,7 +1443,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/1737a1915c8a.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-platinum-ZpknziCdT1qNRCxtHmjsygvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-platinum-ZpknziCdT1qNRCxtHmjsygvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:25:35",
+      "last_verified": "2026-10-03T16:36:21",
       "condition": "new"
     },
     {
@@ -1476,7 +1454,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/d0ddf7c572fe.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-CJqxry5wSPqTBlyUoxQurQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-CJqxry5wSPqTBlyUoxQurQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:25:44",
+      "last_verified": "2026-10-03T16:36:33",
       "condition": "new"
     },
     {
@@ -1487,7 +1465,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/622957f632fa.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-CU8MwoJsRueXtORtYncAwQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-CU8MwoJsRueXtORtYncAwQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:25:56",
+      "last_verified": "2026-10-03T16:36:44",
       "condition": "new"
     },
     {
@@ -1498,7 +1476,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/60c90792edb5.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-GresQODiSJWak8kUgEDjvgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-GresQODiSJWak8kUgEDjvgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:26:06",
+      "last_verified": "2026-10-03T16:36:54",
       "condition": "new"
     },
     {
@@ -2810,17 +2788,6 @@
       "condition": "new"
     },
     {
-      "name": "2026FordTransit Cargo VanT-250 148\" Low Rf 9070 Gvwr AWD101AOrder Code",
-      "vin": "1FTBR2Y83TKB00316",
-      "stock": "266876",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/4818df37c1ae.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-OCCnjWarRxKNeVhfTP0bcQvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-OCCnjWarRxKNeVhfTP0bcQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:50:26",
-      "condition": "new"
-    },
-    {
       "name": "2026FordTransit Cargo VanT-150 148\" Low Rf 8670 Gvwr AWD",
       "vin": "1FTYE2Y89TKB28594",
       "stock": "266886",
@@ -3047,6 +3014,17 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-super-duty-f-350-srw-lariat-66yI843GQte1fUuEuS8UFQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-super-duty-f-350-srw-lariat-66yI843GQte1fUuEuS8UFQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:53:02",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordSuper Duty F-350 SRWLariat 4WD Crew Cab 6.75' Box618AOrder Code4x4",
+      "vin": "2FT8W3BM1VBA08682",
+      "stock": "27644",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cf0c222ee6b7.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2027-ford-super-duty-f-350-srw-lariat-8eFZyzvYRhu1IKnZiha86Avdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-super-duty-f-350-srw-lariat-8eFZyzvYRhu1IKnZiha86Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T16:34:06",
       "condition": "new"
     },
     {
