@@ -1,7 +1,7 @@
 {
   "dealership": "Brown Bros Ford Lincoln",
-  "generated_at": "2026-10-07T20:13:14",
-  "vehicle_count": 293,
+  "generated_at": "2026-10-07T21:44:06",
+  "vehicle_count": 297,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -188,7 +188,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/4ab989acd1ae.html",
       "source_url": "https://www.brownbrosford.com/inventory/2021-ford-bronco-Jgi6Oxo6Snabq6ILtBcPNQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2021-ford-bronco-Jgi6Oxo6Snabq6ILtBcPNQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:56:53",
+      "last_verified": "2026-10-07T21:41:28",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -200,7 +200,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/20836e4fa6c5.html",
       "source_url": "https://www.brownbrosford.com/inventory/2021-ford-bronco-sport-base-SpWBxeRVR0iGgjwcno2A4Avdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2021-ford-bronco-sport-base-SpWBxeRVR0iGgjwcno2A4Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:57:03",
+      "last_verified": "2026-10-07T21:41:39",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -213,7 +213,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/de6c24fa8b8e.html",
       "source_url": "https://www.brownbrosford.com/inventory/2021-ford-escape-se-hybrid-5D3JVUyiSXyiIzhoIQh7uwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2021-ford-escape-se-hybrid-5D3JVUyiSXyiIzhoIQh7uwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:57:13",
+      "last_verified": "2026-10-07T21:41:51",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -226,7 +226,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/b7b9aa89d0a3.html",
       "source_url": "https://www.brownbrosford.com/inventory/2021-ford-mustang-O4SNE1njTPG37lyYBkZZ1gvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2021-ford-mustang-O4SNE1njTPG37lyYBkZZ1gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T16:29:41",
+      "last_verified": "2026-10-07T21:42:00",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -251,7 +251,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/203b1b26c229.html",
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-Xq0xUrQ2Rp6j7PFKah0ipQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-Xq0xUrQ2Rp6j7PFKah0ipQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T16:30:04",
+      "last_verified": "2026-10-07T21:42:11",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -264,7 +264,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/fabed847617f.html",
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-Y30NIgNtQOGTyUlLxO80zwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-Y30NIgNtQOGTyUlLxO80zwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T16:30:15",
+      "last_verified": "2026-10-07T21:42:20",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -277,7 +277,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/e50a13eae28a.html",
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-outer-banks-41nZgwI6TRageHBFz1LdYwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-outer-banks-41nZgwI6TRageHBFz1LdYwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T16:30:28",
+      "last_verified": "2026-10-07T21:42:29",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -290,7 +290,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/8c2946f10f74.html",
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-escape-se-YbzcFwWXTbmtIEFJSHK0igvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-escape-se-YbzcFwWXTbmtIEFJSHK0igvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:58:21",
+      "last_verified": "2026-10-07T21:42:40",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -303,7 +303,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/4c0cebd42a31.html",
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-escape-se-twQJ6rsLRiafhTrzTTvcVgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-escape-se-twQJ6rsLRiafhTrzTTvcVgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:58:30",
+      "last_verified": "2026-10-07T21:42:52",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -316,7 +316,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/6e7fe7e5f2f0.html",
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-escape-se-zdGAc34ySWaTwPPPxD1MBwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-escape-se-zdGAc34ySWaTwPPPxD1MBwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:58:39",
+      "last_verified": "2026-10-07T21:43:04",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -329,7 +329,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/0fdf13fd4570.html",
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-f-150-lariat-YJc3h6hVTUiqnZ9MV3njDwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-f-150-lariat-YJc3h6hVTUiqnZ9MV3njDwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:58:49",
+      "last_verified": "2026-10-07T21:43:16",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -367,7 +367,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/4ddbc720284a.html",
       "source_url": "https://www.brownbrosford.com/inventory/2023-ford-bronco-qmsMi5yWQ52sqR2DuWAB0wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-bronco-qmsMi5yWQ52sqR2DuWAB0wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T16:35:37",
+      "last_verified": "2026-10-07T21:43:26",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -430,7 +430,32 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/a651639b8524.html",
       "source_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-xl-TzaAqbo3QomaDA5RtSQHqgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-xl-TzaAqbo3QomaDA5RtSQHqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T15:59:41",
+      "last_verified": "2026-10-07T21:43:49",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2023FordF-150XL 4WD Supercrew 5.5' Box4x4Crew Cab",
+      "vin": "1FTEW1EP4PFC97961",
+      "stock": "LP26457",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/597fe5906082.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-xl-XaAWfS8cQDytg4J9tHE0ggvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-xl-XaAWfS8cQDytg4J9tHE0ggvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T21:40:46",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2023FordMustangGT FastbackRWD",
+      "vin": "1FA6P8CF7P5305874",
+      "stock": "266519A",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/6c37fdc0aa60.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2023-ford-mustang-gt-ErH8fwetRwK9TMdALscydAvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-mustang-gt-ErH8fwetRwK9TMdALscydAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T21:40:57",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -443,7 +468,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/9262cd061905.html",
       "source_url": "https://www.brownbrosford.com/inventory/2023-lincoln-nautilus-reserve-4klypRaFS2GfxZAoKNjn8wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2023-lincoln-nautilus-reserve-4klypRaFS2GfxZAoKNjn8wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T16:36:07",
+      "last_verified": "2026-10-07T21:44:01",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -702,6 +727,18 @@
       "province": "BC"
     },
     {
+      "name": "2024NissanFrontierCrew Cab 4x4 Long Bed SV",
+      "vin": "1N6ED1FK8RN665024",
+      "stock": "OP26482",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/5f13ced7449b.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2024-nissan-frontier-sv-xYwmE5guRX2QGyfpgTb7Swvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2024-nissan-frontier-sv-xYwmE5guRX2QGyfpgTb7Swvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T21:41:08",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "2025FordBroncoOuter Banks 4 Door 4x4",
       "vin": "1FMDE8BH9SLB25175",
       "stock": "OP26204",
@@ -710,6 +747,19 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-bronco-outer-banks-v6ilS1QgQIC1RWYdiB30nAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-bronco-outer-banks-v6ilS1QgQIC1RWYdiB30nAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:31:08",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2025FordBronco SportBadlands 4x4400AEquipment Group",
+      "vin": "3FMCR9DA4SRF80359",
+      "stock": "266391A",
+      "color": "Green",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/1752eef7f113.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2025-ford-bronco-sport-badlands-e55UG9tzQIiTzjzLm4PtWgvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-bronco-sport-badlands-e55UG9tzQIiTzjzLm4PtWgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T21:41:19",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
