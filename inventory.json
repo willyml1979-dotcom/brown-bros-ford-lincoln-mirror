@@ -1,7 +1,7 @@
 {
   "dealership": "Brown Bros Ford Lincoln",
-  "generated_at": "2026-10-04T16:49:18",
-  "vehicle_count": 289,
+  "generated_at": "2026-10-07T20:13:14",
+  "vehicle_count": 293,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -13,7 +13,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2007-honda-pilot-lx-yrypiqbnSCWsndYBjKhWPQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2007-honda-pilot-lx-yrypiqbnSCWsndYBjKhWPQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:25:36",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2007ToyotaCamryFWD",
@@ -24,7 +26,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2007-toyota-camry-prsZ2ju6Rsq11ak6fvAaDwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2007-toyota-camry-prsZ2ju6Rsq11ak6fvAaDwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T15:55:58",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2014FordF-1504x4Extended Cab",
@@ -34,7 +38,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2014-ford-f-150-z0Nb2kNCQ3ipG135ssmLQgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2014-ford-f-150-z0Nb2kNCQ3ipG135ssmLQgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:25:47",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2014JeepWrangler Unlimited4WD 4dr Rubicon23RQuick Order Package4x4",
@@ -45,7 +51,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2014-jeep-wrangler-unlimited-rubicon-bixKtXDwQvOXH3hF786y9Avdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2014-jeep-wrangler-unlimited-rubicon-bixKtXDwQvOXH3hF786y9Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:25:58",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2015HyundaiGenesis Coupe2dr V6 Auto GTRWD",
@@ -55,7 +63,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2015-hyundai-genesis-coupe-gt-1NVWGDB5RtyXvkcBXIyRJgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2015-hyundai-genesis-coupe-gt-1NVWGDB5RtyXvkcBXIyRJgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:37:51",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2017ChevroletCruzeHatchback Premier1SFPreferred Equipment GroupFWD",
@@ -65,7 +75,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2017-chevrolet-cruze-premier-XuDFyagCTxGhgaRcwmDRxQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2017-chevrolet-cruze-premier-XuDFyagCTxGhgaRcwmDRxQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:26:08",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2017FordEdge4dr Titanium AWD",
@@ -75,7 +87,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2017-ford-edge-titanium-u9TPy0gJRgyD4fUmv2Kiswvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2017-ford-edge-titanium-u9TPy0gJRgyD4fUmv2Kiswvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:37:22",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2017NissanRogueAWD",
@@ -85,7 +99,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2017-nissan-rogue-DRRmslYNTnSuKb2QAoarrgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2017-nissan-rogue-DRRmslYNTnSuKb2QAoarrgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:26:18",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2018FordF-1504x4Crew Cab",
@@ -96,7 +112,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2018-ford-f-150-NQhDK0TfQpmT2bXvmv8Ojgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2018-ford-f-150-NQhDK0TfQpmT2bXvmv8Ojgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:38:02",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2018RamProMaster Cargo Van1500 Low Roof 136\" WB21AQuick Order PackageFWD",
@@ -107,7 +125,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2018-ram-promaster-cargo-van-IUzEbOwrRAmdXx1SmXa4Fgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2018-ram-promaster-cargo-van-IUzEbOwrRAmdXx1SmXa4Fgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:26:28",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019FordF-1504x4Crew Cab",
@@ -118,7 +138,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2019-ford-f-150-9CrdmWlvQS2TIXUjhI63fQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2019-ford-f-150-9CrdmWlvQS2TIXUjhI63fQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:26:38",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019GMCSierra 1500Crew Cab Short Box 4-Wheel Drive AT44SBPreferred Equipment Group4x4",
@@ -129,7 +151,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2019-gmc-sierra-1500-at4-JRc5Z9KqTCa15IfbNWjvZgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2019-gmc-sierra-1500-at4-JRc5Z9KqTCa15IfbNWjvZgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:26:50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019JeepGrand CherokeeHigh Altitude 4x42BSQuick Order Package",
@@ -140,7 +164,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2019-jeep-grand-cherokee-high-altitude-xwsojpA1SKamXjNJIqRG9wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2019-jeep-grand-cherokee-high-altitude-xwsojpA1SKamXjNJIqRG9wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:38:12",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2020AudiS5 CoupeTechnik 3.0 Tfsi quattroAWD",
@@ -150,7 +176,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2020-audi-s5-coupe-technik-kUSbssPbQYaEB3yeR6wvOgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2020-audi-s5-coupe-technik-kUSbssPbQYaEB3yeR6wvOgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T16:28:07",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021FordBronco4x4",
@@ -161,7 +189,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2021-ford-bronco-Jgi6Oxo6Snabq6ILtBcPNQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2021-ford-bronco-Jgi6Oxo6Snabq6ILtBcPNQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T15:56:53",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021FordBronco SportBase 4x4100AEquipment Group",
@@ -171,7 +201,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2021-ford-bronco-sport-base-SpWBxeRVR0iGgjwcno2A4Avdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2021-ford-bronco-sport-base-SpWBxeRVR0iGgjwcno2A4Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T15:57:03",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021FordEscapeSE Hybrid AWD201AEquipment Group",
@@ -182,7 +214,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2021-ford-escape-se-hybrid-5D3JVUyiSXyiIzhoIQh7uwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2021-ford-escape-se-hybrid-5D3JVUyiSXyiIzhoIQh7uwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T15:57:13",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021FordMustangRWD",
@@ -193,7 +227,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2021-ford-mustang-O4SNE1njTPG37lyYBkZZ1gvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2021-ford-mustang-O4SNE1njTPG37lyYBkZZ1gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T16:29:41",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022FordBronco4x4",
@@ -203,7 +239,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-0wjwGauHQ22QcZkMB5UYJAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-0wjwGauHQ22QcZkMB5UYJAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:27:00",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022FordBronco4x4",
@@ -214,7 +252,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-Xq0xUrQ2Rp6j7PFKah0ipQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-Xq0xUrQ2Rp6j7PFKah0ipQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T16:30:04",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022FordBronco4x4",
@@ -225,7 +265,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-Y30NIgNtQOGTyUlLxO80zwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-Y30NIgNtQOGTyUlLxO80zwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T16:30:15",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022FordBroncoOuter Banks4x4",
@@ -236,7 +278,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-outer-banks-41nZgwI6TRageHBFz1LdYwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-outer-banks-41nZgwI6TRageHBFz1LdYwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T16:30:28",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022FordEscapeSE FWD200AEquipment Group",
@@ -247,7 +291,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-escape-se-YbzcFwWXTbmtIEFJSHK0igvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-escape-se-YbzcFwWXTbmtIEFJSHK0igvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T15:58:21",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022FordEscapeSE FWD200AEquipment Group",
@@ -258,7 +304,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-escape-se-twQJ6rsLRiafhTrzTTvcVgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-escape-se-twQJ6rsLRiafhTrzTTvcVgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T15:58:30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022FordEscapeSE AWD200AEquipment Group",
@@ -269,7 +317,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-escape-se-zdGAc34ySWaTwPPPxD1MBwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-escape-se-zdGAc34ySWaTwPPPxD1MBwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T15:58:39",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022FordF-150Lariat 4WD Supercrew 6.5' Box4x4Crew Cab",
@@ -280,7 +330,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-f-150-lariat-YJc3h6hVTUiqnZ9MV3njDwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-f-150-lariat-YJc3h6hVTUiqnZ9MV3njDwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T15:58:49",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022LincolnAviatorReserve AWD",
@@ -291,7 +343,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2022-lincoln-aviator-reserve-BjU4TPDpRoa42bCZL4H1Tgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-lincoln-aviator-reserve-BjU4TPDpRoa42bCZL4H1Tgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:27:11",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022NissanPathfinderPlatinum4x4",
@@ -301,7 +355,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2022-nissan-pathfinder-platinum-pTrsyU47Rs2JNAivkuF2bwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-nissan-pathfinder-platinum-pTrsyU47Rs2JNAivkuF2bwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:27:21",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023FordBronco4x4",
@@ -312,7 +368,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2023-ford-bronco-qmsMi5yWQ52sqR2DuWAB0wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-bronco-qmsMi5yWQ52sqR2DuWAB0wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T16:35:37",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023FordEscapeST-Line AWD",
@@ -323,7 +381,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2023-ford-escape-st-line-rTpssLXbTSSqcUPkv0piHQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-escape-st-line-rTpssLXbTSSqcUPkv0piHQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T16:35:48",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023FordF-1504x4Crew Cab",
@@ -333,7 +393,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-Q4I0U4b5SEKMHR3riGBfBgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-Q4I0U4b5SEKMHR3riGBfBgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:27:33",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023FordF-1504x4Crew Cab",
@@ -344,7 +406,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-XaAWfS8cQDytg4J9tHE0ggvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-XaAWfS8cQDytg4J9tHE0ggvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:27:43",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023FordF-1504x4Crew Cab",
@@ -354,7 +418,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-nAuCxIosSPiH2jPASRxGrQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-nAuCxIosSPiH2jPASRxGrQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:27:52",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023FordF-150XL 4WD Supercrew 5.5' Box4x4Crew Cab",
@@ -365,7 +431,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-xl-TzaAqbo3QomaDA5RtSQHqgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-xl-TzaAqbo3QomaDA5RtSQHqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T15:59:41",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023LincolnNautilusReserve AWD200AEquipment Group",
@@ -376,7 +444,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2023-lincoln-nautilus-reserve-4klypRaFS2GfxZAoKNjn8wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2023-lincoln-nautilus-reserve-4klypRaFS2GfxZAoKNjn8wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T16:36:07",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023ToyotaSiennaAWD",
@@ -387,7 +457,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2023-toyota-sienna-120GdjYeQ0m3rOSIQ75aQwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2023-toyota-sienna-120GdjYeQ0m3rOSIQ75aQwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:00:01",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024AcuraRDXA-Spec AWD",
@@ -398,7 +470,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-acura-rdx-a-spec-chkEKIWqT9eRT6G8mbaHHwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-acura-rdx-a-spec-chkEKIWqT9eRT6G8mbaHHwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:00:11",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordBroncoBig Bend 4 Door 4x4",
@@ -409,7 +483,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-big-bend-iE5ipVe0SIWmBf862Qv4Twvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-big-bend-iE5ipVe0SIWmBf862Qv4Twvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:00:44",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordBronco SportBig Bend 4x4200AEquipment Group",
@@ -420,7 +496,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-big-bend-6rLv4RB2QEOIdMroMGCTSQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-big-bend-6rLv4RB2QEOIdMroMGCTSQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T16:36:56",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordBronco SportOuter Banks 4x4300AEquipment Group",
@@ -431,7 +509,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-outer-banks-sC2a7YHKT8yGo5K2H86z7wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-outer-banks-sC2a7YHKT8yGo5K2H86z7wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T16:37:07",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordExpeditionLimited 4x4",
@@ -442,7 +522,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-expedition-limited-OkBMhP5QTJOwTlnTnUcv3Avdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-expedition-limited-OkBMhP5QTJOwTlnTnUcv3Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:01:18",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordF-150Lariat4x4Crew Cab",
@@ -452,7 +534,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-lariat-hF3UhPceSuatoUldO604PQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-lariat-hF3UhPceSuatoUldO604PQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:28:01",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordF-150 LightningLariat 4WD Supercrew 5.5' Box511AEquipment Group HighAWDCrew Cab",
@@ -462,7 +546,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-lightning-lariat-Ri0vAPBcQ4GlegfOFHD7Jwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-lightning-lariat-Ri0vAPBcQ4GlegfOFHD7Jwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:28:11",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordF-150Platinum4x4Crew Cab",
@@ -472,7 +558,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-platinum-eSJz4orhTuWsqom9yMpP6wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-platinum-eSJz4orhTuWsqom9yMpP6wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:28:21",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordF-150Stx 4WD Supercrew 5.5' Box4x4Crew Cab",
@@ -482,7 +570,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-stx-k9rIvc2ST021jzUTioZ8rQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-stx-k9rIvc2ST021jzUTioZ8rQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:28:34",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordF-150XLT 4WD Supercrew 5.5' Box4x4Crew Cab",
@@ -493,7 +583,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-DdvWGUcASn6Fq98ewTSAHAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-DdvWGUcASn6Fq98ewTSAHAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T16:37:29",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordF-150XLT 4WD Supercrew 5.5' Box4x4Crew Cab",
@@ -503,7 +595,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-WdsGwbyST9uGTv50hH39lwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-WdsGwbyST9uGTv50hH39lwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:30:18",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
@@ -514,7 +608,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-fw3aWM3pQoWwqXzHWKzzXwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-fw3aWM3pQoWwqXzHWKzzXwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:28:44",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordF-150XLT 4WD Supercrew 5.5' Box4x4Crew Cab",
@@ -524,7 +620,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-h9P6Dfr3TTeAJ7413PewVwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-h9P6Dfr3TTeAJ7413PewVwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:28:53",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordF-150XLT 4WD Supercrew 5.5' Box4x4Crew Cab",
@@ -535,7 +633,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-ly9YpYEvSFidJlDZZN2MVAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-ly9YpYEvSFidJlDZZN2MVAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:30:29",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordMaverickXLT FWD Supercrew300AEquipment Group StandardCrew Cab",
@@ -545,7 +645,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-maverick-xlt-14fMqK8WRaG9rBypLr3JrQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-maverick-xlt-14fMqK8WRaG9rBypLr3JrQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:29:03",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordMustang Mach-ESelect AWD100AEquipment Group",
@@ -556,7 +658,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-mustang-mach-e-select-pxYxYWMKQfmauvX6L7B3xQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-mustang-mach-e-select-pxYxYWMKQfmauvX6L7B3xQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:30:38",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordMustangRWD",
@@ -567,7 +671,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-mustang-nNbvKrteTqChocMFpQJ1oAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-mustang-nNbvKrteTqChocMFpQJ1oAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:29:12",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordTransit Cargo VanT-350 Hd 148\" El Hi Rf 9950 Gvwr DRW AWD101AOrder Code",
@@ -578,7 +684,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-transit-cargo-van-5XLMPbnESDWnkw4zR6Zr4wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-transit-cargo-van-5XLMPbnESDWnkw4zR6Zr4wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:30:47",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024MazdaCX-5GX AWD w/o CdAA00Package",
@@ -589,7 +697,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-mazda-cx-5-gx-dbTEmL6wS4iOkCxmAtAcOAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-mazda-cx-5-gx-dbTEmL6wS4iOkCxmAtAcOAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:30:57",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordBroncoOuter Banks 4 Door 4x4",
@@ -600,7 +710,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-bronco-outer-banks-v6ilS1QgQIC1RWYdiB30nAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-bronco-outer-banks-v6ilS1QgQIC1RWYdiB30nAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:31:08",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordBronco SportBig Bend 4x4200AEquipment Group",
@@ -611,7 +723,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-bronco-sport-big-bend-wYEs6id2RgWSIlYDPtBiTAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-bronco-sport-big-bend-wYEs6id2RgWSIlYDPtBiTAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:31:17",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordEscapePHEV FWD700AEquipment Group",
@@ -622,7 +736,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-escape-phev-AF9AzKakTCuSZMNrmi2SlAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-escape-phev-AF9AzKakTCuSZMNrmi2SlAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:31:29",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordExplorerST-Line 4WD300AEquipment Group Standard Package4x4",
@@ -633,7 +749,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-explorer-st-line-y4h76AIhSVujxdfRW2pNvAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-explorer-st-line-y4h76AIhSVujxdfRW2pNvAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:31:41",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordF-150 LightningFlash 4WD Supercrew 5.5' Box312AEquipment Group StandardAWDCrew Cab",
@@ -644,7 +762,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-f-150-lightning-flash-cTbaoBIPRU2X5aqcoWduwwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-f-150-lightning-flash-cTbaoBIPRU2X5aqcoWduwwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:31:53",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordF-150 LightningLariat 4WD Supercrew 5.5' Box511AEquipment Group HighAWDCrew Cab",
@@ -655,7 +775,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-f-150-lightning-lariat-86SMY8ATSTaBhhCQlrMFYgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-f-150-lightning-lariat-86SMY8ATSTaBhhCQlrMFYgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:32:03",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordMustang Mach-EGT AWD400AEquipment Group Standard Package",
@@ -666,7 +788,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-mustang-mach-e-gt-eWUHzbxsQF6Cg9sKY8qaygvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-mustang-mach-e-gt-eWUHzbxsQF6Cg9sKY8qaygvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:32:13",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -677,7 +801,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-mustang-mach-e-premium-TjdQhE9VRe2ICqNYqs18Egvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-mustang-mach-e-premium-TjdQhE9VRe2ICqNYqs18Egvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:32:23",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
@@ -688,7 +814,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-mustang-mach-e-select-jcXPFN7USliwEwmixY54ywvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-mustang-mach-e-select-jcXPFN7USliwEwmixY54ywvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:32:35",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025LincolnNautilusReserve AWD",
@@ -699,7 +827,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-lincoln-nautilus-reserve-rO3QRCCbQmW8MNgcKRxMtwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-lincoln-nautilus-reserve-rO3QRCCbQmW8MNgcKRxMtwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:32:48",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025Mazda3 SportGX Auto FWDAA00Package",
@@ -710,7 +840,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-mazda-mazda3-sport-gx-sSj8mL7YTo2fCMCXM7XoGwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-mazda-mazda3-sport-gx-sSj8mL7YTo2fCMCXM7XoGwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:29:22",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025ToyotaRAV4XLE AWD",
@@ -721,7 +853,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-toyota-rav4-xle-k8oMtZkRTMqd3Us7LOk6TQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-toyota-rav4-xle-k8oMtZkRTMqd3Us7LOk6TQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:35:45",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordEscapePHEV FWD700AEquipment Group",
@@ -731,7 +865,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-escape-phev-Ls4vQiCMTey8liT1qfxmYQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-escape-phev-Ls4vQiCMTey8liT1qfxmYQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:29:33",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat4x4Crew Cab",
@@ -742,7 +878,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-AWaatzqORSObxSsM2f335gvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-AWaatzqORSObxSsM2f335gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:35:55",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box4x4Crew Cab",
@@ -753,7 +891,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-J0aAY93qTKiNmOjhwlGOqwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-J0aAY93qTKiNmOjhwlGOqwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:29:44",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Platinum 4WD Supercrew 5.5' Box4x4Crew Cab",
@@ -764,7 +904,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-platinum-VDxDS89MRmqC16rf1602zgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-platinum-VDxDS89MRmqC16rf1602zgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:29:56",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026HondaOdysseyBlack Edition AutoFWD",
@@ -774,7 +916,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-honda-odyssey-black-edition-Rnbbukp6Qsu3GXfSNYY1jgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-honda-odyssey-black-edition-Rnbbukp6Qsu3GXfSNYY1jgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:30:07",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -785,7 +929,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-2Nle45FbROyrmwDENl0ArQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-2Nle45FbROyrmwDENl0ArQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:36:07",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -796,7 +942,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-49rm3SOhTI2CaS40h5kWlQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-49rm3SOhTI2CaS40h5kWlQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:36:17",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordSuper Duty F-350 SRWLariat 4WD Crew Cab 6.75' Box618AOrder Code4x4",
@@ -807,7 +955,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-super-duty-f-350-srw-lariat-66yI843GQte1fUuEuS8UFQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-super-duty-f-350-srw-lariat-66yI843GQte1fUuEuS8UFQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:36:27",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordTransit Cargo VanT-250 148\" Med Rf 9070 Gvwr RWD101AOrder Code",
@@ -818,7 +968,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-0A8Sl4HIR52XIlyGjJq8ygvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-0A8Sl4HIR52XIlyGjJq8ygvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:36:40",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordTransit Cargo VanT-250 148\" El Hi Rf 9070 Gvwr AWD101AOrder Code",
@@ -829,7 +981,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-4tS4lHR2TiuqKBxIRANZ1Avdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-4tS4lHR2TiuqKBxIRANZ1Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:36:50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027LincolnNavigator LReserve 4x4202AEquipment Group",
@@ -840,7 +994,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-lincoln-navigator-l-reserve-8UmlIVwKSnWy4x6iRbX8OAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-lincoln-navigator-l-reserve-8UmlIVwKSnWy4x6iRbX8OAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:37:00",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022FordF-1504x4Crew Cab",
@@ -851,7 +1007,22 @@
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-f-150-LTl7HkuMQfOOpMxV9O1UFwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-f-150-LTl7HkuMQfOOpMxV9O1UFwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:22:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2023FordF-1504x4Crew Cab",
+      "vin": "1FTEW1EP8PKD46540",
+      "stock": "OP26487",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/452d08a68245.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-y0aT58pKQl2GEoaZFKWReAvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-y0aT58pKQl2GEoaZFKWReAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:09:49",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordBronco SportBadlands 4x4400AEquipment Group",
@@ -862,7 +1033,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-badlands-XsgBP8EdQqGFriXh3NWx3Qvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-badlands-XsgBP8EdQqGFriXh3NWx3Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:14:24",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024FordF-150XLT4x4Crew Cab",
@@ -872,7 +1045,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-sqRAqiNpQjOPX4VpIOyFTgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-sqRAqiNpQjOPX4VpIOyFTgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:22:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordBroncoBadlands 4 Door 4x4332AEquipment Group Mid Package",
@@ -883,7 +1058,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-bronco-badlands-dFqSqi25RhqeJTd5JTr8ygvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-bronco-badlands-dFqSqi25RhqeJTd5JTr8ygvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:05:13",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordBroncoBig Bend 4 Door 4x4222AEquipment Group Mid Package",
@@ -894,7 +1071,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-bronco-big-bend-FD7QTZxVSTmF6mCTm98UaAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-bronco-big-bend-FD7QTZxVSTmF6mCTm98UaAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:14:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordBroncoOuter Banks 4 Door 4x4314AEquipment Group High/Lux Package",
@@ -905,7 +1084,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-bronco-outer-banks-KaYfWquaQuSO8zvvqUaSZAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-bronco-outer-banks-KaYfWquaQuSO8zvvqUaSZAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:14:57",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordBroncoRaptor 4 Door 4x4374AEquipment Group Lux Package",
@@ -916,7 +1097,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-bronco-raptor-WkjxksyXSBuHM6Tmn7HQbAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-bronco-raptor-WkjxksyXSBuHM6Tmn7HQbAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:15:06",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordEscapeActive AWD200AEquipment Group",
@@ -927,7 +1110,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-escape-active-85GbjeGySNyb7JW89G3MjAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-escape-active-85GbjeGySNyb7JW89G3MjAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:05:55",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordEscapeActive AWD200AEquipment Group",
@@ -938,7 +1123,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-escape-active-BW06twgeQgySCZGhZnV2Twvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-escape-active-BW06twgeQgySCZGhZnV2Twvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:23:06",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordEscapeActive FWD200AEquipment Group",
@@ -949,7 +1136,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-escape-active-NJtureBFRJS8Qs6fmTEGcgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-escape-active-NJtureBFRJS8Qs6fmTEGcgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:06:04",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
@@ -960,7 +1149,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-f-150-raptor-KnC3AyW8TIKFtyWREumrBAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-f-150-raptor-KnC3AyW8TIKFtyWREumrBAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:15:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordRangerLariat 4WD Supercrew 5' Box500AEquipment Group4x4Crew Cab",
@@ -971,7 +1162,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-ranger-lariat-XR2RLbmmRrSNo3VRAtTDMgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-ranger-lariat-XR2RLbmmRrSNo3VRAtTDMgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:15:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordRangerLariat 4WD Supercrew 5' Box500AEquipment Group4x4Crew Cab",
@@ -982,7 +1175,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-ranger-lariat-dDov3cdYRSaI1boDb4rBgwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-ranger-lariat-dDov3cdYRSaI1boDb4rBgwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:16:00",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025FordTransit Cargo VanT-250 148\" Low Rf 9070 Gvwr RWD101AOrder Code",
@@ -993,7 +1188,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2025-ford-transit-cargo-van-gxoreHEbRMKAMLFkFVGRJwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-transit-cargo-van-gxoreHEbRMKAMLFkFVGRJwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:16:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBroncoBig Bend 4 Door 4x4222AEquipment Group Mid Package",
@@ -1004,7 +1201,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-big-bend-PjJCzuOeRxyCWvpaIE22qQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-big-bend-PjJCzuOeRxyCWvpaIE22qQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:16:29",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBroncoBig Bend 4 Door 4x4222AEquipment Group Mid Package",
@@ -1015,7 +1214,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-big-bend-h7vyLbGjQ9GPVDAwL36MvQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-big-bend-h7vyLbGjQ9GPVDAwL36MvQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:07:29",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBroncoBig Bend 4 Door 4x4222AEquipment Group Mid Package",
@@ -1026,7 +1227,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-big-bend-yjWsO0tpSCChaEFh3pOrDQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-big-bend-yjWsO0tpSCChaEFh3pOrDQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:17:22",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBroncoOuter Banks 4 Door 4x4312AEquipment Group Mid Package",
@@ -1037,7 +1240,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-outer-banks-41YONcFlTD2THHbnmV677Avdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-outer-banks-41YONcFlTD2THHbnmV677Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:17:31",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBroncoOuter Banks 4 Door 4x4314AEquipment Group High/Lux Package",
@@ -1048,7 +1253,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-outer-banks-A8q9Nu1ZT2K2bE1lurzFBAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-outer-banks-A8q9Nu1ZT2K2bE1lurzFBAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:17:42",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBroncoOuter Banks 4 Door 4x4312AEquipment Group Mid Package",
@@ -1059,7 +1266,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-outer-banks-T1WqiKdWQrS6AVLBrQzByAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-outer-banks-T1WqiKdWQrS6AVLBrQzByAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:17:52",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco SportBadlands 4x4400AEquipment Group",
@@ -1070,7 +1279,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-badlands-7r4mbErqRq6z3Xk83p285gvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-badlands-7r4mbErqRq6z3Xk83p285gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T17:18:52",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco SportBadlands 4x4400AEquipment Group",
@@ -1081,7 +1292,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-badlands-a668wo2GRTuOYF9kHbzTWwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-badlands-a668wo2GRTuOYF9kHbzTWwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T17:19:02",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco SportBadlands 4x4400AEquipment Group",
@@ -1092,7 +1305,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-badlands-uBxexD0fRMSIbpUgqGZufAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-badlands-uBxexD0fRMSIbpUgqGZufAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T17:19:22",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco SportBig Bend 4x4200AEquipment Group Standard Package",
@@ -1103,7 +1318,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-big-bend-WfD5kDK0Tju2KqQMl3q0LAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-big-bend-WfD5kDK0Tju2KqQMl3q0LAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:18:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco SportBig Bend 4x4200AEquipment Group Standard Package",
@@ -1114,7 +1331,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-big-bend-jFHkRP0sSJmyQQHmX1Cvvgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-big-bend-jFHkRP0sSJmyQQHmX1Cvvgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:19:19",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco SportBig Bend 4x4200AEquipment Group Standard Package",
@@ -1125,7 +1344,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-big-bend-wLhYSlFISCmTlQJ3FrB8xgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-big-bend-wLhYSlFISCmTlQJ3FrB8xgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:19:42",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco SportOuter Banks 4x4300AEquipment Group",
@@ -1136,7 +1357,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-1XQaRuqzTOGfPCT4PTi3bQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-1XQaRuqzTOGfPCT4PTi3bQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:24:06",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco SportOuter Banks 4x4300AEquipment Group",
@@ -1147,7 +1370,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-JlAsD8hFQsK17kbd97uWHQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-JlAsD8hFQsK17kbd97uWHQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:24:18",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco SportOuter Banks 4x4300AEquipment Group",
@@ -1158,7 +1383,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-RtqbVbTuTIyO66cbTYfGwAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-RtqbVbTuTIyO66cbTYfGwAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:24:28",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco SportOuter Banks 4x4300AEquipment Group",
@@ -1169,7 +1396,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-VZlO6wcOSWauZy6qwmedfQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-VZlO6wcOSWauZy6qwmedfQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:24:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco SportOuter Banks 4x4300AEquipment Group",
@@ -1180,7 +1409,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-egnsBnmTRAmn9DaXBrlm2Qvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-bronco-sport-outer-banks-egnsBnmTRAmn9DaXBrlm2Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:24:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordExplorerST 4WD400AEquipment Group Standard Package4x4",
@@ -1191,7 +1422,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-explorer-st-YGQnnMD0Sku5uVNhIF63CQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-explorer-st-YGQnnMD0Sku5uVNhIF63CQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:04:39",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordExplorerST-Line 4WD300AEquipment Group Standard Package4x4",
@@ -1202,7 +1435,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-explorer-st-line-zV7KBqPtTfOIopvPkiQYYAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-explorer-st-line-zV7KBqPtTfOIopvPkiQYYAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:23:19",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -1213,7 +1448,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-5v74HRX3QqyZOXdIH3llrAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-5v74HRX3QqyZOXdIH3llrAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:25:03",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
@@ -1224,7 +1461,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-7HVCpzKUQHCOuR4UqSf5ZAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-7HVCpzKUQHCOuR4UqSf5ZAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:25:13",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -1235,7 +1474,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-BUmT8ugoTOSke0J5pU4Fygvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-BUmT8ugoTOSke0J5pU4Fygvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:25:23",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -1246,7 +1487,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-ElzQ8JJmQnyTt388nvV2mAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-ElzQ8JJmQnyTt388nvV2mAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:25:35",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 6.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -1257,7 +1500,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-GdHklKX6RuaYZhc8kOmYegvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-GdHklKX6RuaYZhc8kOmYegvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:25:47",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -1268,7 +1513,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-Ik2lfMY0SJ2mUbRD4PDLzQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-Ik2lfMY0SJ2mUbRD4PDLzQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:25:59",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
@@ -1279,7 +1526,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-QzhIZLLMTjCzssgWub3Nxwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-QzhIZLLMTjCzssgWub3Nxwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:26:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -1290,7 +1539,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-XrfaDSDBTquQUagDIJwSIwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-XrfaDSDBTquQUagDIJwSIwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:26:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
@@ -1301,7 +1552,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-dcrQu7muSRmV1sORlNhxRgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-dcrQu7muSRmV1sORlNhxRgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:26:31",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
@@ -1312,7 +1565,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-eNFrXQL0SzunRIqjNEy1twvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-eNFrXQL0SzunRIqjNEy1twvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:26:44",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -1323,7 +1578,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-edAGaAoHSUye5XjzKxNwYQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-edAGaAoHSUye5XjzKxNwYQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:34:18",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 6.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
@@ -1334,7 +1591,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-f1xCCLEDRnimXQYrN4xzSgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-f1xCCLEDRnimXQYrN4xzSgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:34:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
@@ -1345,7 +1604,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-lOEPYOKlTiqkS4KqSKDdWgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-lOEPYOKlTiqkS4KqSKDdWgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:34:41",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -1356,7 +1617,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-m7HzdFGjQy6nTqanMgfgfgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-m7HzdFGjQy6nTqanMgfgfgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:34:52",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
@@ -1367,7 +1630,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-q8gt6bWmRGyzHmUoqVQv3wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-q8gt6bWmRGyzHmUoqVQv3wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:35:02",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -1378,7 +1643,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-qZPAgP58SmKdX762o72gjQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-qZPAgP58SmKdX762o72gjQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:35:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
@@ -1389,7 +1656,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-t5T3HLSCRXqkaeHAdWJtTQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-t5T3HLSCRXqkaeHAdWJtTQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:35:25",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
@@ -1400,7 +1669,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-tnQ723XxSPC5TG8lCYbIOgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-tnQ723XxSPC5TG8lCYbIOgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:35:37",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
@@ -1411,7 +1682,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-zenIwGe2SxCSIsRl45UWxgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-zenIwGe2SxCSIsRl45UWxgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:35:48",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
@@ -1422,7 +1695,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-zi6jrSaJSFmFoRVTLlD9IQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-lariat-zi6jrSaJSFmFoRVTLlD9IQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:35:59",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Platinum 4WD Supercrew 5.5' Box702AEquipment Group High4x4Crew Cab",
@@ -1433,7 +1708,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-platinum-1nArmz72TJeIzQTIgIumuAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-platinum-1nArmz72TJeIzQTIgIumuAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:36:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Platinum 4WD Supercrew 5.5' Box702AEquipment Group High4x4Crew Cab",
@@ -1444,7 +1721,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-platinum-ZpknziCdT1qNRCxtHmjsygvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-platinum-ZpknziCdT1qNRCxtHmjsygvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:36:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
@@ -1455,7 +1734,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-CJqxry5wSPqTBlyUoxQurQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-CJqxry5wSPqTBlyUoxQurQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:36:33",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
@@ -1466,7 +1747,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-CU8MwoJsRueXtORtYncAwQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-CU8MwoJsRueXtORtYncAwQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:36:44",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
@@ -1477,7 +1760,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-GresQODiSJWak8kUgEDjvgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-GresQODiSJWak8kUgEDjvgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:36:54",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
@@ -1488,7 +1773,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-b1VluJsgQumkz5pEDHmjYQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-b1VluJsgQumkz5pEDHmjYQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:46:34",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
@@ -1499,7 +1786,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-gSMYI7VYRga8dX7P7MbJqwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-gSMYI7VYRga8dX7P7MbJqwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:46:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
@@ -1510,7 +1799,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-gdIbDwtISeCY1yRGPCnwXAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-gdIbDwtISeCY1yRGPCnwXAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:46:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
@@ -1521,7 +1812,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-hr5kMCqLTdSVkercze8B7Avdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-hr5kMCqLTdSVkercze8B7Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:47:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
@@ -1532,7 +1825,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-lTmydVnfS72nmqhnvQTPcAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-lTmydVnfS72nmqhnvQTPcAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:47:18",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
@@ -1543,7 +1838,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-pZs2edTZTcujqfq7OIUSvwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-pZs2edTZTcujqfq7OIUSvwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:47:29",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
@@ -1554,7 +1851,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-qaG4ITYESx6TmBlyfAFkWwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-qaG4ITYESx6TmBlyfAFkWwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:47:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
@@ -1565,7 +1864,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-zCpRi81USLOxjhxKsHokRgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-raptor-zCpRi81USLOxjhxKsHokRgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:47:51",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box200A-0Equipment Group 200A Mid4x4Crew Cab",
@@ -1576,7 +1877,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-stx-0ytdIdCJQWqayPSTnWemegvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-stx-0ytdIdCJQWqayPSTnWemegvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:23:31",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box200A-0Equipment Group 200A Mid4x4Crew Cab",
@@ -1587,7 +1890,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-stx-2LdAnEKSSJ2uRgHBrwV2cwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-stx-2LdAnEKSSJ2uRgHBrwV2cwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:48:03",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box200A-0Equipment Group 200A Mid4x4Crew Cab",
@@ -1598,7 +1903,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-stx-NZhZYMnJRvS82Qi5sAVNZQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-stx-NZhZYMnJRvS82Qi5sAVNZQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:48:15",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box200A-0Equipment Group 200A Mid4x4Crew Cab",
@@ -1609,7 +1916,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-stx-PJfBGLFwRUa4TPtIuFSuUgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-stx-PJfBGLFwRUa4TPtIuFSuUgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:48:26",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box200A-0Equipment Group 200A Mid4x4Crew Cab",
@@ -1620,7 +1929,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-stx-s5YUW73OQomEwUHSxWoj8Avdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-stx-s5YUW73OQomEwUHSxWoj8Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:48:39",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box201A-0Equipment Group 201a Fx44x4Crew Cab",
@@ -1631,7 +1942,35 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-stx-xi2kOGIbRFKtGhVlyZS6jwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-stx-xi2kOGIbRFKtGhVlyZS6jwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:48:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2026FordF-150Tremor 4WD Supercrew 5.5' Box402AEquipment Group High4x4Crew Cab",
+      "vin": "1FTFW4L80TFB51410",
+      "stock": "266207",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/0d6ce4fc903f.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-tremor-FmreW4TrSn2WBAXazHmf5gvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-tremor-FmreW4TrSn2WBAXazHmf5gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:10:00",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2026FordF-150XL 4WD Supercrew 6.5' Box103A-0Equipment Group 103a High4x4Crew Cab",
+      "vin": "1FTFW1L83TKE35796",
+      "stock": "266193",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/85550f515e45.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xl-ZhoxblPjSUmq4HtPu59InQvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xl-ZhoxblPjSUmq4HtPu59InQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:10:12",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1642,7 +1981,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-1fYT8YtgQAaTLO9LBUMdMwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-1fYT8YtgQAaTLO9LBUMdMwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:49:02",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1653,7 +1994,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-2CCF4agvSEm5ACTTBHo8QAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-2CCF4agvSEm5ACTTBHo8QAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:49:12",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1663,8 +2006,10 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/3edfe2a73902.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-4XyzcNlDS6WkPcNRxp1V0Avdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-4XyzcNlDS6WkPcNRxp1V0Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:29:06",
-      "condition": "new"
+      "last_verified": "2026-10-07T20:10:36",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 6.5' Box301A-0Equipment Group 301A Standard4x4Crew Cab",
@@ -1675,7 +2020,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-4t5r3rXpRYCuhsK0J19KJgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-4t5r3rXpRYCuhsK0J19KJgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:23:44",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1685,8 +2032,10 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cd12fa099b45.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-5bZyXRn7SROZ5wShdulkagvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-5bZyXRn7SROZ5wShdulkagvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:29:18",
-      "condition": "new"
+      "last_verified": "2026-10-07T20:10:48",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1696,8 +2045,10 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ad9c512d3f98.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-6DkZMXSRTmq5Z7GFCTbOpQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-6DkZMXSRTmq5Z7GFCTbOpQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:29:43",
-      "condition": "new"
+      "last_verified": "2026-10-07T20:10:58",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1707,8 +2058,10 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/de13b1c9f077.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-8cEyg4sJSHeujEZuH3KcFgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-8cEyg4sJSHeujEZuH3KcFgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:29:53",
-      "condition": "new"
+      "last_verified": "2026-10-07T20:11:10",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1718,8 +2071,10 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/bc175517e6b1.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-APyzpAeCT0qRbmaTHcAItwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-APyzpAeCT0qRbmaTHcAItwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:30:06",
-      "condition": "new"
+      "last_verified": "2026-10-07T20:11:22",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1729,8 +2084,10 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/045b0eee17fc.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-Bi5uesaPRtacSXenk6HDggvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-Bi5uesaPRtacSXenk6HDggvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:30:30",
-      "condition": "new"
+      "last_verified": "2026-10-07T20:11:34",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box301A-0Equipment Group 301A Standard4x4Crew Cab",
@@ -1740,8 +2097,10 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/9814a1284bf3.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-DlePg6Y1TluvLaGqVBKWOgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-DlePg6Y1TluvLaGqVBKWOgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:30:41",
-      "condition": "new"
+      "last_verified": "2026-10-07T20:11:47",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1751,8 +2110,10 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f038469f7883.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-EGVFKPvATQ2FAmLgGgOyngvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-EGVFKPvATQ2FAmLgGgOyngvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:30:51",
-      "condition": "new"
+      "last_verified": "2026-10-07T20:11:58",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1762,8 +2123,10 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f1a4eb547ca1.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-IeB6jkyZRSmldAn5sI7pOQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-IeB6jkyZRSmldAn5sI7pOQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:31:14",
-      "condition": "new"
+      "last_verified": "2026-10-07T20:12:09",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
@@ -1773,8 +2136,10 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f431f42a3c34.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-J3474XPjRcm6MnqgEDNrGwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-J3474XPjRcm6MnqgEDNrGwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:31:26",
-      "condition": "new"
+      "last_verified": "2026-10-07T20:12:21",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
@@ -1784,8 +2149,10 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ddd2969c20c4.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-JCAEEF2NQLyJNrUMecI0lQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-JCAEEF2NQLyJNrUMecI0lQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:31:38",
-      "condition": "new"
+      "last_verified": "2026-10-07T20:12:31",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
@@ -1795,8 +2162,10 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/5becb94f6e4d.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-NZc9gykbSn6XIGxqoF3KSAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-NZc9gykbSn6XIGxqoF3KSAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:31:50",
-      "condition": "new"
+      "last_verified": "2026-10-07T20:12:42",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1806,8 +2175,10 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/9d480ba80b4f.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-OACBfsEUQGWC3FEqjje4wwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-OACBfsEUQGWC3FEqjje4wwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:32:01",
-      "condition": "new"
+      "last_verified": "2026-10-07T20:12:54",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1817,8 +2188,10 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/d064e9acf624.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-PsqCzZstSV2UPdcHOHqpbgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-PsqCzZstSV2UPdcHOHqpbgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:32:13",
-      "condition": "new"
+      "last_verified": "2026-10-07T20:13:06",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box301A-0Equipment Group 301A Standard4x4Crew Cab",
@@ -1829,7 +2202,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-WnRwkICSSgCx8AYwNnhElgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-WnRwkICSSgCx8AYwNnhElgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T17:16:25",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercab 6.5' Box301A-0Equipment Group 301A Standard4x4Extended Cab",
@@ -1840,7 +2215,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-X7LgKW3cTOCv6S54ca8AqAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-X7LgKW3cTOCv6S54ca8AqAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:32:24",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1851,7 +2228,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-Xmndm4ZwTDWssENlScqHdQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-Xmndm4ZwTDWssENlScqHdQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:32:38",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1862,7 +2241,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-ZCWAVSi7Q92yS8maK6llAQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-ZCWAVSi7Q92yS8maK6llAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:32:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1873,7 +2254,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-aGsMfRFUQqGSpRbPnCiXGgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-aGsMfRFUQqGSpRbPnCiXGgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:33:02",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1884,7 +2267,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-aaXGRBvPSgSzuVykWInBBAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-aaXGRBvPSgSzuVykWInBBAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:33:12",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
@@ -1895,7 +2280,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-bC5fevUJQAGqupSkYGBTEwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-bC5fevUJQAGqupSkYGBTEwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:33:23",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1906,7 +2293,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-fZ5SkkRLRLeuWBsOrCMgtAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-fZ5SkkRLRLeuWBsOrCMgtAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:33:34",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1917,7 +2306,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-fzQPCDKATbyR3ogKPJqZ2Qvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-fzQPCDKATbyR3ogKPJqZ2Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:33:46",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1928,7 +2319,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-go7enfYJQUOB2JDyhMQVogvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-go7enfYJQUOB2JDyhMQVogvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:33:57",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box300A-0Equipment Group 300A Base4x4Crew Cab",
@@ -1939,7 +2332,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-gp4ZcXVKSJ6CAkIGXFpYqgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-gp4ZcXVKSJ6CAkIGXFpYqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:34:06",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box301A-0Equipment Group 301A Standard4x4Crew Cab",
@@ -1950,7 +2345,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-hXcjCWgcR4mUWKBWUSqmSAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-hXcjCWgcR4mUWKBWUSqmSAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:23:55",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1961,7 +2358,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-koCrmgHuTDuQ1Lr7GtkTaQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-koCrmgHuTDuQ1Lr7GtkTaQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:34:19",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 6.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1972,7 +2371,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-lBqYIebISvqOZemsT1KsDAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-lBqYIebISvqOZemsT1KsDAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:34:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -1983,7 +2384,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-mfQsPJBhT0GjDR6JDFEWrgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-mfQsPJBhT0GjDR6JDFEWrgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:34:42",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
@@ -1994,7 +2397,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-nZKMKH13QqWgzGyVauX4kAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-nZKMKH13QqWgzGyVauX4kAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:34:53",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
@@ -2005,7 +2410,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-p1X9BShfRu2h9I5HgIbB4wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-p1X9BShfRu2h9I5HgIbB4wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:35:04",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -2016,7 +2423,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-ps51ulDsT6yDnxoU2gofzAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-ps51ulDsT6yDnxoU2gofzAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:35:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
@@ -2027,7 +2436,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-qQSmwqzSSzCJa4dnJb52ugvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-qQSmwqzSSzCJa4dnJb52ugvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:35:24",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -2038,7 +2449,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-syvgKHaLQteNrdRu4xISlQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-syvgKHaLQteNrdRu4xISlQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:35:36",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -2049,7 +2462,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-tKMMnjQPTPeo3AIOKySzLwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-tKMMnjQPTPeo3AIOKySzLwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:35:48",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -2060,7 +2475,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-wMBoqH1CRs2mnJ7N7kKglAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-wMBoqH1CRs2mnJ7N7kKglAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:35:59",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 6.5' Box301A-0Equipment Group 301A Standard4x4Crew Cab",
@@ -2071,7 +2488,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-wff7XvLkRaS3xH4V6MiJQQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-wff7XvLkRaS3xH4V6MiJQQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:36:12",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -2082,7 +2501,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-zx0fvaKmTiysX5h7npApuAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-xlt-zx0fvaKmTiysX5h7npApuAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:36:23",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverickXLT AWD Supercrew301AEquipment GroupCrew Cab",
@@ -2093,7 +2514,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-maverick-xlt-SYZrRrdETlaGd2Iv6trGTAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-maverick-xlt-SYZrRrdETlaGd2Iv6trGTAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:37:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverickXLT AWD Supercrew301AEquipment GroupCrew Cab",
@@ -2104,7 +2527,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-maverick-xlt-SZjJqvUmRNSfbIQcDY9XOQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-maverick-xlt-SZjJqvUmRNSfbIQcDY9XOQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:37:28",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverickXLT AWD Supercrew301AEquipment GroupCrew Cab",
@@ -2115,7 +2540,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-maverick-xlt-amNTbctLQMSlRpN9KZmb0Avdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-maverick-xlt-amNTbctLQMSlRpN9KZmb0Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:37:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverickXLT AWD Supercrew302AEquipment GroupCrew Cab",
@@ -2126,7 +2553,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-maverick-xlt-pEDF7Z90RnG3A4ULdfnlggvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-maverick-xlt-pEDF7Z90RnG3A4ULdfnlggvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:37:51",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustangDark Horse Sc Coupe970AEquipment Group High PackageRWD",
@@ -2137,7 +2566,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-dark-horse-sc-0RYQrgY4Q1agH876wRmFIQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-dark-horse-sc-0RYQrgY4Q1agH876wRmFIQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:38:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustangDark Horse Sc Coupe950AEquipment Group Standard PackageRWD",
@@ -2148,7 +2579,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-dark-horse-sc-BfNlmEaJRsaSVJZcyA5AXgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-dark-horse-sc-BfNlmEaJRsaSVJZcyA5AXgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:38:24",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustangDark Horse Sc Coupe950AEquipment Group Standard PackageRWD",
@@ -2159,7 +2592,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-dark-horse-sc-t0Mx4o1IQhaX5nnxBWFP0gvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-dark-horse-sc-t0Mx4o1IQhaX5nnxBWFP0gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:38:34",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustangDark Horse Sc Coupe950AEquipment Group Standard PackageRWD",
@@ -2170,7 +2605,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-dark-horse-sc-u4RGeNNsTziIH5C2k5teoQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-dark-horse-sc-u4RGeNNsTziIH5C2k5teoQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:38:44",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustangDark Horse Fastback700AEquipment Group Deluxe PackageRWD",
@@ -2181,7 +2618,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-dark-horse-voMlkURGSQ6rEBuzME79lAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-dark-horse-voMlkURGSQ6rEBuzME79lAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:38:53",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustangEcoboost Premium Fastback201AEquipment Group High PackageRWD",
@@ -2192,7 +2631,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-ecoboost-premium-2nhj6HCaTs66DZzzzngvYQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-ecoboost-premium-2nhj6HCaTs66DZzzzngvYQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:39:05",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustangEcoboost Premium Fastback201AEquipment Group High PackageRWD",
@@ -2203,7 +2644,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-ecoboost-premium-VHhxm7L6RjeGtDl1NUyTAwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-ecoboost-premium-VHhxm7L6RjeGtDl1NUyTAwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:39:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustangEcoboost Fastback100AEquipment Group Standard PackageRWD",
@@ -2214,7 +2657,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-ecoboost-sfqme0ydTzugeQCWWDs0Nwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-ecoboost-sfqme0ydTzugeQCWWDs0Nwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:39:25",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustangGT Premium Fastback400AEquipment Group Standard PackageRWD",
@@ -2225,7 +2670,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-gt-premium-ELnQw7n7ROSssn0dSfVeewvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-gt-premium-ELnQw7n7ROSssn0dSfVeewvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:39:36",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustangGT Premium Fastback401AEquipment Group High PackageRWD",
@@ -2236,7 +2683,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-gt-premium-dR7xeMsLTqKAGVqFaqQSNQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-gt-premium-dR7xeMsLTqKAGVqFaqQSNQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:39:47",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustangGT Premium Fastback401AEquipment Group High PackageRWD",
@@ -2247,7 +2696,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-gt-premium-iNzg44EYTPGXqpHvmStmnwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-gt-premium-iNzg44EYTPGXqpHvmStmnwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:39:59",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2258,7 +2709,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-1mSv8ZsEThCMrlT7I0sjJQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-1mSv8ZsEThCMrlT7I0sjJQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:40:20",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2269,7 +2722,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-3eitf8KpTjCRD131oKd0Ywvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-3eitf8KpTjCRD131oKd0Ywvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:40:32",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2280,7 +2735,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-B12UxMwmS7uN41i4RoQyjAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-B12UxMwmS7uN41i4RoQyjAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:40:43",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2290,7 +2747,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-FDIiF1uBRsS78zSjyRYgzQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-FDIiF1uBRsS78zSjyRYgzQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:40:54",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2301,7 +2760,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-FP3VknwVS2S0tfkPmmW7dAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-FP3VknwVS2S0tfkPmmW7dAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:41:04",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2312,7 +2773,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-FPJoDkjDQIG89OjQE9sjDQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-FPJoDkjDQIG89OjQE9sjDQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:41:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2323,7 +2786,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-G4HUu7yFRayHm5G0xKDpAAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-G4HUu7yFRayHm5G0xKDpAAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:41:26",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2334,7 +2799,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-OMTLolrBTGqwylaf2Qnzjgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-OMTLolrBTGqwylaf2Qnzjgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:41:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2345,7 +2812,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-UM7Xl7z1QBm3geno709Xowvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-UM7Xl7z1QBm3geno709Xowvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:42:02",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2356,7 +2825,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-VxXjBCEhR9yZPmyS59cYjQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-VxXjBCEhR9yZPmyS59cYjQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:42:11",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2367,7 +2838,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-Wdp82qZXSIiePA831FN3IQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-Wdp82qZXSIiePA831FN3IQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:42:23",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2378,7 +2851,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-Xm2Mc7ZlTSegJlbICWmEtAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-Xm2Mc7ZlTSegJlbICWmEtAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:42:33",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2389,7 +2864,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-XnnOzQtKRZCJeLfAtKGNuAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-XnnOzQtKRZCJeLfAtKGNuAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:42:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2400,7 +2877,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-ZamXvcnAQdWw83hRW25dIgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-ZamXvcnAQdWw83hRW25dIgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:43:09",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2411,7 +2890,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-g4bezgfsSmWdJw8aKgcCxQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-g4bezgfsSmWdJw8aKgcCxQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:43:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2422,7 +2903,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-iZfkyKfiTLun8XeVbxdbCgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-iZfkyKfiTLun8XeVbxdbCgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:43:32",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2433,7 +2916,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-lhxAFGLhRPaEiUNIb4VIPQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-lhxAFGLhRPaEiUNIb4VIPQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:43:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2444,7 +2929,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-nqUlIO65TpKrLb8EGZzcZQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-nqUlIO65TpKrLb8EGZzcZQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:43:57",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2455,7 +2942,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-q7hIFOcSSDGjrr4O4uCjlgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-q7hIFOcSSDGjrr4O4uCjlgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:44:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2466,7 +2955,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-uvyIQmMUTvaqc21C8Ys0LAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-uvyIQmMUTvaqc21C8Ys0LAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:44:18",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2477,7 +2968,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-waT9TromRRezqFcOva8QsQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-waT9TromRRezqFcOva8QsQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:44:29",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
@@ -2488,7 +2981,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-wx7MH1PHRWWlTm6tudRl5Avdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-wx7MH1PHRWWlTm6tudRl5Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:44:41",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
@@ -2499,7 +2994,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-141kC6UrTJKH8S9UDzZvPwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-141kC6UrTJKH8S9UDzZvPwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:44:52",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
@@ -2510,7 +3007,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-3wDRO3tlTN62Hf37Nr9XAgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-3wDRO3tlTN62Hf37Nr9XAgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:45:04",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
@@ -2521,7 +3020,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-IobRXERKTs2zQeDEHHC0Uwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-IobRXERKTs2zQeDEHHC0Uwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:45:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
@@ -2532,7 +3033,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-IqssBzhBQuOtlCyVCMb6GAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-IqssBzhBQuOtlCyVCMb6GAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:45:26",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
@@ -2543,7 +3046,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-LBFp12VeQLmJQsAKn9hEUQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-LBFp12VeQLmJQsAKn9hEUQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:45:37",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
@@ -2554,7 +3059,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-Qtq7HJalRL2XMfsoQeIu6gvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-Qtq7HJalRL2XMfsoQeIu6gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:45:49",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
@@ -2565,7 +3072,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-StEYhmqGQmutkqCQ8SY5ewvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-StEYhmqGQmutkqCQ8SY5ewvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:46:00",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
@@ -2576,7 +3085,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-rxrXdJG6SKWpmV2J6A0g2wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-rxrXdJG6SKWpmV2J6A0g2wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:46:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
@@ -2587,7 +3098,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-wFQ1hXO0RG2KpjZakl90Bwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-select-wFQ1hXO0RG2KpjZakl90Bwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:46:22",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordRangerLariat 4WD Supercrew 5' Box500AEquipment Group4x4Crew Cab",
@@ -2598,7 +3111,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-lariat-M17ronZZQMmM7giksckmTgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-lariat-M17ronZZQMmM7giksckmTgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:46:31",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordRangerLariat 4WD Supercrew 5' Box500AEquipment Group4x4Crew Cab",
@@ -2609,7 +3124,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-lariat-fENy1nXxSKOskJlA4ywMQwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-lariat-fENy1nXxSKOskJlA4ywMQwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T17:16:36",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordRangerLariat 4WD Supercrew 5' Box500AEquipment Group4x4Crew Cab",
@@ -2620,7 +3137,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-lariat-hJP0sJGpTX6Ol1hvtqFJBAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-lariat-hJP0sJGpTX6Ol1hvtqFJBAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:46:41",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordRangerLariat 4WD Supercrew 5' Box500AEquipment Group4x4Crew Cab",
@@ -2631,7 +3150,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-lariat-iHlryMFiThayADyoZdH7jgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-lariat-iHlryMFiThayADyoZdH7jgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:46:52",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordRangerLariat 4WD Supercrew 5' Box500AEquipment Group4x4Crew Cab",
@@ -2642,7 +3163,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-lariat-infID4yNTnuDDdtKR9Ei1wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-lariat-infID4yNTnuDDdtKR9Ei1wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:47:05",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordRangerLariat 4WD Supercrew 5' Box500AEquipment Group4x4Crew Cab",
@@ -2653,7 +3176,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-lariat-toj7G4NXT3GkWL4qTsiEugvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-lariat-toj7G4NXT3GkWL4qTsiEugvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:47:15",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordRangerRaptor 4WD Supercrew 5' Box800AEquipment Group4x4Crew Cab",
@@ -2664,7 +3189,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-raptor-5VqoGK6jQtCbpA6iXjzaTwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-raptor-5VqoGK6jQtCbpA6iXjzaTwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:47:27",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordRangerRaptor 4WD Supercrew 5' Box800AEquipment Group4x4Crew Cab",
@@ -2675,7 +3202,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-raptor-n4pVjuCLTYmuX5WWdWwTqwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-raptor-n4pVjuCLTYmuX5WWdWwTqwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:47:37",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordRangerXL 4WD Supercrew 5' Box100AEquipment Group4x4Crew Cab",
@@ -2686,7 +3215,22 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-xl-Jv8FRUxMT26MaJwGVEKKhAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-xl-Jv8FRUxMT26MaJwGVEKKhAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:47:59",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2026FordRangerXLT 4WD Supercrew 5' Box300AEquipment Group Standard4x4Crew Cab",
+      "vin": "1FTER4HH0TLE24049",
+      "stock": "266214",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/a11779db1d0c.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-xlt-ViZnGn7xTvCRVTXM65XJSAvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-xlt-ViZnGn7xTvCRVTXM65XJSAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:10:24",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordRangerXLT 4WD Supercrew 5' Box301AEquipment Group High4x4Crew Cab",
@@ -2697,7 +3241,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-xlt-h6bNCJ3GTiidz4IrvhatNgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-xlt-h6bNCJ3GTiidz4IrvhatNgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:48:23",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordRangerXLT 4WD Supercrew 5' Box301AEquipment Group High4x4Crew Cab",
@@ -2708,7 +3254,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-xlt-mXxILBNTTeStOVQ6DPEXOgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-xlt-mXxILBNTTeStOVQ6DPEXOgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:48:35",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordRangerXLT 4WD Supercrew 5' Box301AEquipment Group High4x4Crew Cab",
@@ -2719,7 +3267,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-xlt-nTntlMJPQAiINXfA0zKgLgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-ranger-xlt-nTntlMJPQAiINXfA0zKgLgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:48:48",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordSuper Duty F-350 SRWPlatinum 4WD Crew Cab 6.75' Box713AOrder Code4x4",
@@ -2730,7 +3280,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-super-duty-f-350-srw-platinum-VLi1wF7KQRaPdsdSpTva7wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-super-duty-f-350-srw-platinum-VLi1wF7KQRaPdsdSpTva7wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:49:09",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordSuper Duty F-350 SRWXLT 4WD Crew Cab 6.75' Box613AOrder Code4x4",
@@ -2741,7 +3293,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-super-duty-f-350-srw-xlt-6D6u7gu0TsepIgKGJQJqhQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-super-duty-f-350-srw-xlt-6D6u7gu0TsepIgKGJQJqhQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:49:20",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordSuper Duty F-550 DRWXL 4WD Reg Cab 145\" WB 60\" Ca660AOrder Code4x4Regular",
@@ -2752,7 +3306,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-super-duty-f-550-drw-xl-Z6aq6dzdSD6rHvjyorbnOAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-super-duty-f-550-drw-xl-Z6aq6dzdSD6rHvjyorbnOAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:49:43",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordSuper Duty F-600 DRWXLT 4WD Reg Cab 205\" WB 120\" Ca683AOrder Code4x4Regular",
@@ -2763,7 +3319,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-super-duty-f-600-drw-xlt-SpkJO2VTQASNhu9l2mX4rQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-super-duty-f-600-drw-xlt-SpkJO2VTQASNhu9l2mX4rQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:49:53",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit Cargo VanT-350 148\" El Hi Rf 9500 Gvwr RWD101AOrder Code",
@@ -2774,7 +3332,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-6VL1y2NaQACwxbBASAtn4wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-6VL1y2NaQACwxbBASAtn4wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:50:03",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit Cargo VanT-250 148\" Med Rf 9070 Gvwr RWD101AOrder Code",
@@ -2785,7 +3345,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-95NVeYtrRhODcOrA0mGplQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-95NVeYtrRhODcOrA0mGplQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:50:15",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit Cargo VanT-150 148\" Low Rf 8670 Gvwr AWD",
@@ -2796,7 +3358,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-bfiT3n4dTxKX1aT3jtTtJQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-bfiT3n4dTxKX1aT3jtTtJQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:50:48",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit Cargo VanT-350 148\" Hi Rf 9500 Gvwr AWD101AOrder Code",
@@ -2807,7 +3371,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-r4z1MVKzQzCjO32hstjEBAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-r4z1MVKzQzCjO32hstjEBAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:50:58",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit Passenger WagonT-350 148\" Med Roof XL AWD301AOrder Code",
@@ -2818,7 +3384,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-passenger-wagon-xl-L8GMX2VbQnWlzYEjwl3lnAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-passenger-wagon-xl-L8GMX2VbQnWlzYEjwl3lnAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:51:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit Passenger WagonT-350 148\" Med Roof XL RWD301AOrder Code",
@@ -2829,7 +3397,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-passenger-wagon-xl-Xw50xwxtQhCpakndP5J9Pwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-passenger-wagon-xl-Xw50xwxtQhCpakndP5J9Pwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:51:18",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordBronco SportBig Bend 4x4200AEquipment Group Standard Package",
@@ -2839,7 +3409,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-bronco-sport-big-bend-qNO3160xS1q3VMRvsufCSwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-bronco-sport-big-bend-qNO3160xS1q3VMRvsufCSwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T17:16:44",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordExplorerActive w/200A Pkg 4WD200AEquipment Group Standard Package4x4",
@@ -2850,7 +3422,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-explorer-active-w-200a-pkg-iFnRbSVkQsqkuvvWGaptQgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-explorer-active-w-200a-pkg-iFnRbSVkQsqkuvvWGaptQgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:51:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordExplorerActive w/200A Pkg 4WD200AEquipment Group Standard Package4x4",
@@ -2861,7 +3435,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-explorer-active-w-200a-pkg-lKZlbY5ZQWismRzMMOYSZgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-explorer-active-w-200a-pkg-lKZlbY5ZQWismRzMMOYSZgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:51:42",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordExplorerPlatinum 4WD600A-1Equipment Group 600a Standard Package4x4",
@@ -2872,7 +3448,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-explorer-platinum-b6eZTL0PQmaTLT2yJ2MZzAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-explorer-platinum-b6eZTL0PQmaTLT2yJ2MZzAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:51:54",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordExplorerPlatinum 4WD600A-1Equipment Group 600a Standard Package4x4",
@@ -2883,7 +3461,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-explorer-platinum-emHvMD0aSAiM63eRSpQiNgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-explorer-platinum-emHvMD0aSAiM63eRSpQiNgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:52:05",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordF-150King Ranch4x4Crew Cab",
@@ -2894,7 +3474,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-king-ranch-PffaB4ncQOSAgR2mPDiT7wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-king-ranch-PffaB4ncQOSAgR2mPDiT7wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T17:16:55",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -2905,7 +3487,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-2Nle45FbROyrmwDENl0ArQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-2Nle45FbROyrmwDENl0ArQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:52:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -2916,7 +3500,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-49rm3SOhTI2CaS40h5kWlQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-49rm3SOhTI2CaS40h5kWlQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:52:26",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -2927,7 +3513,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-CMgPeuANS0WQgoEJgVYB2wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-CMgPeuANS0WQgoEJgVYB2wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T17:17:04",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -2938,7 +3526,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-HZER6agdRb2KsznBBopoaAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-HZER6agdRb2KsznBBopoaAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:52:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -2949,7 +3539,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-Nuomb4sVRDWd25oZOwF9fAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-Nuomb4sVRDWd25oZOwF9fAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T17:17:13",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -2960,7 +3552,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-YrGbzMCJR4GEqKIDIfIErAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-YrGbzMCJR4GEqKIDIfIErAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T17:17:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
@@ -2971,7 +3565,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-xZGtQ09PRcunkpg7UkrrGQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-xZGtQ09PRcunkpg7UkrrGQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:52:52",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordF-150Tremor 4WD Supercrew 5.5' Box402AEquipment Group High4x4Crew Cab",
@@ -2982,7 +3578,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-tremor-T5R3aifDRfGrVM9VrO7xpAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-tremor-T5R3aifDRfGrVM9VrO7xpAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T17:17:29",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordF-150Tremor 4WD Supercrew 5.5' Box402AEquipment Group High4x4Crew Cab",
@@ -2992,7 +3590,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-tremor-lmdcuUATSCeWXuB7OhGENgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-tremor-lmdcuUATSCeWXuB7OhGENgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T17:17:39",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
@@ -3003,7 +3603,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-xlt-X5PDCusKQHysjVSKQcZswAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-xlt-X5PDCusKQHysjVSKQcZswAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T17:17:49",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordSuper Duty F-350 SRWLariat 4WD Crew Cab 6.75' Box618AOrder Code4x4",
@@ -3014,7 +3616,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-super-duty-f-350-srw-lariat-66yI843GQte1fUuEuS8UFQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-super-duty-f-350-srw-lariat-66yI843GQte1fUuEuS8UFQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:53:02",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordSuper Duty F-350 SRWLariat 4WD Crew Cab 6.75' Box618AOrder Code4x4",
@@ -3025,7 +3629,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-super-duty-f-350-srw-lariat-8eFZyzvYRhu1IKnZiha86Avdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-super-duty-f-350-srw-lariat-8eFZyzvYRhu1IKnZiha86Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:34:06",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordSuper Duty F-350 SRWLariat 4WD Crew Cab 6.75' Box618AOrder Code4x4",
@@ -3036,7 +3642,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-super-duty-f-350-srw-lariat-fACmZZK5T6OnyIKqqw3SXAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-super-duty-f-350-srw-lariat-fACmZZK5T6OnyIKqqw3SXAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:53:15",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordTransit Cargo VanT-250 148\" Med Rf 9070 Gvwr RWD101AOrder Code",
@@ -3047,7 +3655,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-0A8Sl4HIR52XIlyGjJq8ygvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-0A8Sl4HIR52XIlyGjJq8ygvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:53:27",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordTransit Cargo VanT-250 148\" El Hi Rf 9070 Gvwr AWD101AOrder Code",
@@ -3058,7 +3668,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-4tS4lHR2TiuqKBxIRANZ1Avdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-4tS4lHR2TiuqKBxIRANZ1Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:53:37",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordTransit Cargo VanT-350 148\" El Hi Rf 9500 Gvwr RWD101AOrder Code",
@@ -3069,7 +3681,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-UMXtlHoYTRmVFfra6UbUKgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-UMXtlHoYTRmVFfra6UbUKgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:53:49",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordTransit Cargo VanT-150 148\" Low Rf 8670 Gvwr AWD101AOrder Code",
@@ -3080,7 +3694,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-VNkXriAkRGywXdOwcFxkfwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-VNkXriAkRGywXdOwcFxkfwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:54:00",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordTransit Cargo VanT-250 148\" Med Rf 9070 Gvwr RWD101AOrder Code",
@@ -3091,7 +3707,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-YdiuulJKS82vZ5PbzE3DDQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-YdiuulJKS82vZ5PbzE3DDQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:54:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordTransit Cargo VanT-250 148\" Med Rf 9070 Gvwr RWD101AOrder Code",
@@ -3102,7 +3720,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-cd8dt6XiTcOyCjF1hqYtigvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-cd8dt6XiTcOyCjF1hqYtigvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:54:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordTransit Cargo VanT-250 148\" Med Rf 9070 Gvwr RWD101AOrder Code",
@@ -3113,7 +3733,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-swUqCpDrROmgCcjAQFKUOQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-swUqCpDrROmgCcjAQFKUOQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:54:33",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordTransit Cargo VanT-350 148\" El Hi Rf 9500 Gvwr AWD101AOrder Code",
@@ -3124,7 +3746,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-uuovSNRvTcOpnOurQPgVDQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-uuovSNRvTcOpnOurQPgVDQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:54:43",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordTransit Cargo VanT-250 130\" Low Rf 9070 Gvwr RWD101AOrder Code",
@@ -3135,7 +3759,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-vUeC4qj1SUeGRoV7g3vpBAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-cargo-van-vUeC4qj1SUeGRoV7g3vpBAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:54:54",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027FordTransit Passenger WagonT-350 148\" Med Roof XL AWD301AOrder Code",
@@ -3146,7 +3772,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-passenger-wagon-xl-uikEFVUQSFCys6C0YbEmpwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-transit-passenger-wagon-xl-uikEFVUQSFCys6C0YbEmpwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:55:04",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027LincolnNavigator LReserve 4x4202AEquipment Group",
@@ -3157,7 +3785,9 @@
       "source_url": "https://www.brownbrosford.com/inventory/2027-lincoln-navigator-l-reserve-8UmlIVwKSnWy4x6iRbX8OAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-lincoln-navigator-l-reserve-8UmlIVwKSnWy4x6iRbX8OAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T16:55:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     }
   ]
 }
