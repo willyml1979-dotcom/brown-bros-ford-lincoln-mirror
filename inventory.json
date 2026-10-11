@@ -1,7 +1,7 @@
 {
   "dealership": "Brown Bros Ford Lincoln",
-  "generated_at": "2026-10-08T21:57:20",
-  "vehicle_count": 299,
+  "generated_at": "2026-10-10T22:12:05",
+  "vehicle_count": 304,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -112,6 +112,19 @@
       "source_url": "https://www.brownbrosford.com/inventory/2018-ford-f-150-NQhDK0TfQpmT2bXvmv8Ojgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2018-ford-f-150-NQhDK0TfQpmT2bXvmv8Ojgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:38:02",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2018GMCSierra 3500HD4WD Crew Cab Standard Box Denali5SAPreferred Equipment Group4x4",
+      "vin": "1GT42YEYXJF135218",
+      "stock": "OP26478",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/54fe1c964ef2.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2018-gmc-sierra-3500hd-denali-YbaujGrlR0mxn7bkshiCvgvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2018-gmc-sierra-3500hd-denali-YbaujGrlR0mxn7bkshiCvgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T22:10:15",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -238,7 +251,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/83d8f1304dca.html",
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-0wjwGauHQ22QcZkMB5UYJAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-0wjwGauHQ22QcZkMB5UYJAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T15:27:00",
+      "last_verified": "2026-10-10T22:11:26",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -354,7 +367,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/cfba94a986f5.html",
       "source_url": "https://www.brownbrosford.com/inventory/2022-nissan-pathfinder-platinum-pTrsyU47Rs2JNAivkuF2bwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-nissan-pathfinder-platinum-pTrsyU47Rs2JNAivkuF2bwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T15:27:21",
+      "last_verified": "2026-10-10T22:11:38",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -399,13 +412,26 @@
     },
     {
       "name": "2023FordF-1504x4Crew Cab",
+      "vin": "1FTFW1E88PFA91104",
+      "stock": "XP26497",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/8252cdc4840c.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-UrYZjLQrRWmWLRSnIwmimgvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-UrYZjLQrRWmWLRSnIwmimgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T22:10:25",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2023FordF-150XL 4WD Supercrew 5.5' Box4x4Crew Cab",
       "vin": "1FTEW1EP4PFC97961",
       "stock": "LP26457",
       "color": "White",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/878695980117.html",
       "source_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-XaAWfS8cQDytg4J9tHE0ggvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-XaAWfS8cQDytg4J9tHE0ggvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T15:27:43",
+      "last_verified": "2026-10-10T22:11:51",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -481,7 +507,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/b44a85cbd2c1.html",
       "source_url": "https://www.brownbrosford.com/inventory/2023-toyota-sienna-120GdjYeQ0m3rOSIQ75aQwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2023-toyota-sienna-120GdjYeQ0m3rOSIQ75aQwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:00:01",
+      "last_verified": "2026-10-10T22:11:02",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -534,6 +560,18 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-outer-banks-sC2a7YHKT8yGo5K2H86z7wvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-outer-banks-sC2a7YHKT8yGo5K2H86z7wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T21:56:22",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2024FordBroncoWildtrak 4 Door 4x4",
+      "vin": "1FMEE2BP1RLA35103",
+      "stock": "LP26498",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/0cc4fe68dc56.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-wildtrak-Ytj9B65mTDq9ke1De8Xw8Qvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-wildtrak-Ytj9B65mTDq9ke1De8Xw8Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T22:10:33",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -817,6 +855,19 @@
       "province": "BC"
     },
     {
+      "name": "2025FordF-150 LightningFlash 4WD Supercrew 5.5' Box312AEquipment Group StandardAWDCrew Cab",
+      "vin": "1FT6W3LU7SWG11653",
+      "stock": "OP26504",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/63662eb3e8ea.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2025-ford-f-150-lightning-flash-uCVSNxvTQDampYSruPJJQwvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2025-ford-f-150-lightning-flash-uCVSNxvTQDampYSruPJJQwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T22:10:45",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "2025FordF-150 LightningLariat 4WD Supercrew 5.5' Box511AEquipment Group HighAWDCrew Cab",
       "vin": "1FT6W5L76SWG31155",
       "stock": "OP26185",
@@ -954,6 +1005,18 @@
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-platinum-VDxDS89MRmqC16rf1602zgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-f-150-platinum-VDxDS89MRmqC16rf1602zgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:29:56",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2026GMCAcadiaAWD Denali5SBPreferred Equipment Group",
+      "vin": "1GKENRKSXTJ164529",
+      "stock": "266522A",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/4f6a14a5d09a.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2026-gmc-acadia-denali-2Nlc8SdKQkW0xZIv5HlJnwvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2026-gmc-acadia-denali-2Nlc8SdKQkW0xZIv5HlJnwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T22:10:54",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
