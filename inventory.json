@@ -1,7 +1,7 @@
 {
   "dealership": "Brown Bros Ford Lincoln",
-  "generated_at": "2026-10-10T23:16:16",
-  "vehicle_count": 309,
+  "generated_at": "2026-10-13T18:26:00",
+  "vehicle_count": 310,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -1132,6 +1132,19 @@
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-f-150-LTl7HkuMQfOOpMxV9O1UFwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-f-150-LTl7HkuMQfOOpMxV9O1UFwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:22:45",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2023FordF-150 LightningAWDCrew Cab",
+      "vin": "1FT6W1EV9PWG10408",
+      "stock": "LP26506",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/021e095d958c.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-lightning-Sn986wgmRJOXPmy7QyD7EQvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-lightning-Sn986wgmRJOXPmy7QyD7EQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-13T18:23:40",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -2729,7 +2742,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/61e59dcd441f.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-dark-horse-sc-t0Mx4o1IQhaX5nnxBWFP0gvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-dark-horse-sc-t0Mx4o1IQhaX5nnxBWFP0gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:38:34",
+      "last_verified": "2026-10-13T18:23:55",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -2742,7 +2755,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/19ced476025e.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-dark-horse-sc-u4RGeNNsTziIH5C2k5teoQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-dark-horse-sc-u4RGeNNsTziIH5C2k5teoQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:38:44",
+      "last_verified": "2026-10-13T18:24:05",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -2755,7 +2768,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/687d66e01fe6.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-dark-horse-voMlkURGSQ6rEBuzME79lAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-dark-horse-voMlkURGSQ6rEBuzME79lAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:38:53",
+      "last_verified": "2026-10-13T18:24:17",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -2768,7 +2781,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/647029eb41f5.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-ecoboost-premium-2nhj6HCaTs66DZzzzngvYQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-ecoboost-premium-2nhj6HCaTs66DZzzzngvYQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:39:05",
+      "last_verified": "2026-10-13T18:24:26",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -2781,7 +2794,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/819951dc853c.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-ecoboost-premium-VHhxm7L6RjeGtDl1NUyTAwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-ecoboost-premium-VHhxm7L6RjeGtDl1NUyTAwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:39:16",
+      "last_verified": "2026-10-13T18:24:36",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -2794,7 +2807,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/43bec9da791e.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-ecoboost-sfqme0ydTzugeQCWWDs0Nwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-ecoboost-sfqme0ydTzugeQCWWDs0Nwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:39:25",
+      "last_verified": "2026-10-13T18:24:45",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -2807,7 +2820,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cc1b8c74167f.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-gt-premium-ELnQw7n7ROSssn0dSfVeewvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-gt-premium-ELnQw7n7ROSssn0dSfVeewvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:39:36",
+      "last_verified": "2026-10-13T18:24:53",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -2820,7 +2833,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cd43fea43351.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-gt-premium-dR7xeMsLTqKAGVqFaqQSNQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-gt-premium-dR7xeMsLTqKAGVqFaqQSNQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:39:47",
+      "last_verified": "2026-10-13T18:25:03",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -2833,7 +2846,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f793b9627957.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-gt-premium-iNzg44EYTPGXqpHvmStmnwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-gt-premium-iNzg44EYTPGXqpHvmStmnwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:39:59",
+      "last_verified": "2026-10-13T18:25:13",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -2846,7 +2859,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/6150b069124f.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-1mSv8ZsEThCMrlT7I0sjJQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-1mSv8ZsEThCMrlT7I0sjJQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:40:20",
+      "last_verified": "2026-10-13T18:25:22",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -2859,7 +2872,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/55d54e1d29fa.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-3eitf8KpTjCRD131oKd0Ywvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-3eitf8KpTjCRD131oKd0Ywvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:40:32",
+      "last_verified": "2026-10-13T18:25:33",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -2872,7 +2885,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/395024cbecb3.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-B12UxMwmS7uN41i4RoQyjAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-B12UxMwmS7uN41i4RoQyjAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:40:43",
+      "last_verified": "2026-10-13T18:25:43",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -2884,7 +2897,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/469213924b6a.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-FDIiF1uBRsS78zSjyRYgzQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-mustang-mach-e-premium-FDIiF1uBRsS78zSjyRYgzQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:40:54",
+      "last_verified": "2026-10-13T18:25:54",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
