@@ -1,7 +1,7 @@
 {
   "dealership": "Brown Bros Ford Lincoln",
-  "generated_at": "2026-10-13T18:26:00",
-  "vehicle_count": 310,
+  "generated_at": "2026-10-15T00:34:17",
+  "vehicle_count": 313,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -283,6 +283,19 @@
       "province": "BC"
     },
     {
+      "name": "2022FordBroncoBig Bend 4 Door 4x4",
+      "vin": "1FMDE5BH4NLB26009",
+      "stock": "OP26468",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/163cb9b7b668.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-big-bend-0wjwGauHQ22QcZkMB5UYJAvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-big-bend-0wjwGauHQ22QcZkMB5UYJAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T00:33:15",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "2022FordBroncoOuter Banks4x4",
       "vin": "1FMDE5BH3NLA83699",
       "stock": "OP26421",
@@ -291,6 +304,19 @@
       "source_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-outer-banks-41nZgwI6TRageHBFz1LdYwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-outer-banks-41nZgwI6TRageHBFz1LdYwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T21:42:29",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2022FordBroncoOuter Banks4x4",
+      "vin": "1FMDE5BH4NLB25913",
+      "stock": "OP26422",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/19570d49cf32.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-outer-banks-Xq0xUrQ2Rp6j7PFKah0ipQvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2022-ford-bronco-outer-banks-Xq0xUrQ2Rp6j7PFKah0ipQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T00:33:26",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -708,6 +734,19 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-maverick-xlt-14fMqK8WRaG9rBypLr3JrQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-maverick-xlt-14fMqK8WRaG9rBypLr3JrQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:29:03",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2024FordMustangEcoboost Premium FastbackRWD",
+      "vin": "1FA6P8TH3R5129474",
+      "stock": "OP26458",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/e56db5199d5c.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2024-ford-mustang-ecoboost-premium-nNbvKrteTqChocMFpQJ1oAvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-mustang-ecoboost-premium-nNbvKrteTqChocMFpQJ1oAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T00:33:35",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
