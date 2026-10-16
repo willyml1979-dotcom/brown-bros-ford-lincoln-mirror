@@ -1,7 +1,7 @@
 {
   "dealership": "Brown Bros Ford Lincoln",
-  "generated_at": "2026-10-15T00:43:41",
-  "vehicle_count": 313,
+  "generated_at": "2026-10-16T02:00:21",
+  "vehicle_count": 314,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -240,6 +240,19 @@
       "source_url": "https://www.brownbrosford.com/inventory/2021-ford-mustang-O4SNE1njTPG37lyYBkZZ1gvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2021-ford-mustang-O4SNE1njTPG37lyYBkZZ1gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T21:42:00",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2021JeepGrand CherokeeAltitude 4x42BZQuick Order Package",
+      "vin": "1C4RJFAGXMC824207",
+      "stock": "266212B",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/28b2be901cd6.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2021-jeep-grand-cherokee-altitude-m1pQ9AfOSMSIcBnQTGNzqAvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2021-jeep-grand-cherokee-altitude-m1pQ9AfOSMSIcBnQTGNzqAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-16T01:59:41",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
