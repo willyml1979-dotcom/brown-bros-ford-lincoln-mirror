@@ -1,7 +1,7 @@
 {
   "dealership": "Brown Bros Ford Lincoln",
-  "generated_at": "2026-10-16T02:09:40",
-  "vehicle_count": 317,
+  "generated_at": "2026-10-17T18:08:53",
+  "vehicle_count": 320,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -26,6 +26,18 @@
       "source_url": "https://www.brownbrosford.com/inventory/2007-toyota-camry-prsZ2ju6Rsq11ak6fvAaDwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2007-toyota-camry-prsZ2ju6Rsq11ak6fvAaDwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T15:55:58",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2012VolkswagenEos2dr Conv ComfortlineFWD",
+      "vin": "WVWBD7AH7CV009652",
+      "stock": "OP26443",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/83bf1b383bd1.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2012-volkswagen-eos-comfortline-94wQRJ6zSXe4Xrgl31g5Lwvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2012-volkswagen-eos-comfortline-94wQRJ6zSXe4Xrgl31g5Lwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T18:07:50",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -526,6 +538,19 @@
       "province": "BC"
     },
     {
+      "name": "2023HyundaiElantra HybridLuxury DctFWD",
+      "vin": "KMHLN4AJ4PU092645",
+      "stock": "OP26408",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/85b32fd646ab.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2023-hyundai-elantra-hybrid-luxury-Hocm848MQrKD1XgcmCxbhwvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2023-hyundai-elantra-hybrid-luxury-Hocm848MQrKD1XgcmCxbhwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T18:08:00",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "2023LincolnNautilusReserve AWD200AEquipment Group",
       "vin": "2LMPJ8K98PBL01839",
       "stock": "236816",
@@ -586,6 +611,19 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-big-bend-6rLv4RB2QEOIdMroMGCTSQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-big-bend-6rLv4RB2QEOIdMroMGCTSQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T21:56:13",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2024FordBronco SportOuter Banks 4x4300AEquipment Group",
+      "vin": "3FMCR9C69RRE58104",
+      "stock": "OP26510",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/fdf77947933a.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-outer-banks-HHlC8DX6SoWGD3IA1uwTbwvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-outer-banks-HHlC8DX6SoWGD3IA1uwTbwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T18:08:12",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
