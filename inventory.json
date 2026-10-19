@@ -1,7 +1,7 @@
 {
   "dealership": "Brown Bros Ford Lincoln",
-  "generated_at": "2026-10-18T20:31:49",
-  "vehicle_count": 317,
+  "generated_at": "2026-10-18T21:05:23",
+  "vehicle_count": 316,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -3533,7 +3533,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/8b35ae417185.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-super-duty-f-350-srw-xlt-6D6u7gu0TsepIgKGJQJqhQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-super-duty-f-350-srw-xlt-6D6u7gu0TsepIgKGJQJqhQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:49:20",
+      "last_verified": "2026-10-18T21:03:05",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -3546,7 +3546,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/1a8b5c81c34e.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-super-duty-f-550-drw-xl-Z6aq6dzdSD6rHvjyorbnOAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-super-duty-f-550-drw-xl-Z6aq6dzdSD6rHvjyorbnOAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:49:43",
+      "last_verified": "2026-10-18T21:03:14",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -3559,20 +3559,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f3cf7f9f584e.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-super-duty-f-600-drw-xlt-SpkJO2VTQASNhu9l2mX4rQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-super-duty-f-600-drw-xlt-SpkJO2VTQASNhu9l2mX4rQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:49:53",
-      "condition": "new",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "2026FordTransit Cargo VanT-350 148\" El Hi Rf 9500 Gvwr RWD101AOrder Code",
-      "vin": "1FTBW3X84TKA73207",
-      "stock": "266259",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/6fc59e783d94.html",
-      "source_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-6VL1y2NaQACwxbBASAtn4wvdp",
-      "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-6VL1y2NaQACwxbBASAtn4wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:50:03",
+      "last_verified": "2026-10-18T21:03:26",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -3585,7 +3572,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/fa601aa0a86a.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-95NVeYtrRhODcOrA0mGplQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-95NVeYtrRhODcOrA0mGplQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:50:15",
+      "last_verified": "2026-10-18T21:03:39",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -3598,7 +3585,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/dbd9ce8b48c1.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-bfiT3n4dTxKX1aT3jtTtJQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-bfiT3n4dTxKX1aT3jtTtJQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:50:48",
+      "last_verified": "2026-10-18T21:03:49",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -3611,7 +3598,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/78d96996e374.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-r4z1MVKzQzCjO32hstjEBAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-cargo-van-r4z1MVKzQzCjO32hstjEBAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:50:58",
+      "last_verified": "2026-10-18T21:03:58",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -3624,7 +3611,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/2966841c7a37.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-passenger-wagon-xl-L8GMX2VbQnWlzYEjwl3lnAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-passenger-wagon-xl-L8GMX2VbQnWlzYEjwl3lnAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:51:08",
+      "last_verified": "2026-10-18T21:04:08",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -3637,7 +3624,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/3e44dc024bf4.html",
       "source_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-passenger-wagon-xl-Xw50xwxtQhCpakndP5J9Pwvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2026-ford-transit-passenger-wagon-xl-Xw50xwxtQhCpakndP5J9Pwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:51:18",
+      "last_verified": "2026-10-18T21:04:20",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -3662,7 +3649,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/c54994bfbe02.html",
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-explorer-active-w-200a-pkg-iFnRbSVkQsqkuvvWGaptQgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-explorer-active-w-200a-pkg-iFnRbSVkQsqkuvvWGaptQgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:51:30",
+      "last_verified": "2026-10-18T21:04:32",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -3675,7 +3662,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/7dc207472478.html",
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-explorer-active-w-200a-pkg-lKZlbY5ZQWismRzMMOYSZgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-explorer-active-w-200a-pkg-lKZlbY5ZQWismRzMMOYSZgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:51:42",
+      "last_verified": "2026-10-18T21:04:43",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -3688,7 +3675,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/6b463403db03.html",
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-explorer-platinum-b6eZTL0PQmaTLT2yJ2MZzAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-explorer-platinum-b6eZTL0PQmaTLT2yJ2MZzAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:51:54",
+      "last_verified": "2026-10-18T21:04:54",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -3701,7 +3688,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cbb4559bdf18.html",
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-explorer-platinum-emHvMD0aSAiM63eRSpQiNgvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-explorer-platinum-emHvMD0aSAiM63eRSpQiNgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:52:05",
+      "last_verified": "2026-10-18T21:05:04",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -3727,7 +3714,7 @@
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/c221e8694cf2.html",
       "source_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-2Nle45FbROyrmwDENl0ArQvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2027-ford-f-150-lariat-2Nle45FbROyrmwDENl0ArQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:52:16",
+      "last_verified": "2026-10-18T21:05:17",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
