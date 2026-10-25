@@ -1,7 +1,7 @@
 {
   "dealership": "Brown Bros Ford Lincoln",
-  "generated_at": "2026-10-22T22:17:32",
-  "vehicle_count": 315,
+  "generated_at": "2026-10-25T13:28:14",
+  "vehicle_count": 319,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -502,6 +502,19 @@
     },
     {
       "name": "2023FordF-150 LightningAWDCrew Cab",
+      "vin": "1FTVW1EL4PWG18331",
+      "stock": "OP26507",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/3552a2a06105.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-lightning-8qbvw07YTnqK9DnUUvDg5wvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2023-ford-f-150-lightning-8qbvw07YTnqK9DnUUvDg5wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T13:26:58",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2023FordF-150 LightningAWDCrew Cab",
       "vin": "1FT6W1EV9PWG10408",
       "stock": "LP26506",
       "color": "Red",
@@ -655,6 +668,19 @@
       "province": "BC"
     },
     {
+      "name": "2024FordBronco SportBig Bend 4x4200AEquipment Group",
+      "vin": "3FMCR9B66RRE52312",
+      "stock": "OP26517",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/0d3d681b876f.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-big-bend-s1G881v0TGqtGKeiAxp2Dgvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-bronco-sport-big-bend-s1G881v0TGqtGKeiAxp2Dgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T13:27:11",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "2024FordBronco SportOuter Banks 4x4300AEquipment Group",
       "vin": "3FMCR9C69RRE58104",
       "stock": "OP26510",
@@ -701,6 +727,19 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-expedition-limited-OkBMhP5QTJOwTlnTnUcv3Avdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-expedition-limited-OkBMhP5QTJOwTlnTnUcv3Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T21:56:32",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2024FordF-150Lariat 4WD Supercrew 5.5' Box4x4Crew Cab",
+      "vin": "1FTFW5L80RFA63715",
+      "stock": "OP26518",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/a4ac1a4f50fe.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-lariat-dqQnZEALQI6JMekpNu1PCwvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-lariat-dqQnZEALQI6JMekpNu1PCwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T13:27:24",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -762,6 +801,19 @@
       "source_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-DdvWGUcASn6Fq98ewTSAHAvdp",
       "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-DdvWGUcASn6Fq98ewTSAHAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T21:56:43",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2024FordF-150XLT 4WD Supercrew 5.5' Box4x4Crew Cab",
+      "vin": "1FTEW3LP3RFB56090",
+      "stock": "OP26519",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/365d2fbce8ba.html",
+      "source_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-GSfBSwFdSqibGc1kFVJhlQvdp",
+      "dealer_url": "https://www.brownbrosford.com/inventory/2024-ford-f-150-xlt-GSfBSwFdSqibGc1kFVJhlQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T13:27:35",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
