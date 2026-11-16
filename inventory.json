@@ -1,7 +1,7 @@
 {
   "dealership": "Brown Bros Ford Lincoln",
-  "generated_at": "2026-10-25T13:54:46",
-  "vehicle_count": 318,
+  "generated_at": "2026-11-16T16:44:35",
+  "vehicle_count": 353,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -60,9 +60,21 @@
       "condition": "used"
     },
     {
+      "name": "2018FordEcoSportS FWD100AEquipment Group",
+      "vin": "MAJ3P1RE5JC218907",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/a306542550ab.html",
+      "condition": "used"
+    },
+    {
       "name": "2018FordF-1504x4Crew Cab",
       "vin": "1FTFW1EG6JFA24029",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/da5cb8540e38.html",
+      "condition": "used"
+    },
+    {
+      "name": "2018FordF-150Lariat 4WD Supercrew 5.5' Box4x4Crew Cab",
+      "vin": "1FTFW1EG6JFA24029",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/7d1d136598f4.html",
       "condition": "used"
     },
     {
@@ -84,9 +96,9 @@
       "condition": "used"
     },
     {
-      "name": "2019FordF-1504x4Crew Cab",
-      "vin": "1FTEW1E42KFC70868",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/d222f861c8a5.html",
+      "name": "2019FordEcoSportSE FWD200AEquipment Group",
+      "vin": "MAJ3S2GE9KC265334",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/f9b6bfc45f9b.html",
       "condition": "used"
     },
     {
@@ -120,9 +132,21 @@
       "condition": "used"
     },
     {
+      "name": "2021FordBronco SportBase 4x4100AEquipment Group",
+      "vin": "3FMCR9A69MRA55722",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/0fd64959435f.html",
+      "condition": "used"
+    },
+    {
       "name": "2021FordEscapeSE Hybrid AWD201AEquipment Group",
       "vin": "1FMCU9BZ7MUA43469",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/de6c24fa8b8e.html",
+      "condition": "used"
+    },
+    {
+      "name": "2021FordEscapeSE Hybrid AWD201AEquipment Group",
+      "vin": "1FMCU9BZ7MUA43469",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/d7207177064c.html",
       "condition": "used"
     },
     {
@@ -162,6 +186,12 @@
       "condition": "used"
     },
     {
+      "name": "2022FordBroncoBig Bend 4 Door 4x4",
+      "vin": "1FMDE5BH4NLB26009",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/64d9e42ff4c7.html",
+      "condition": "used"
+    },
+    {
       "name": "2022FordBroncoOuter Banks4x4",
       "vin": "1FMDE5BH3NLA83699",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/e50a13eae28a.html",
@@ -169,8 +199,20 @@
     },
     {
       "name": "2022FordBroncoOuter Banks4x4",
+      "vin": "1FMDE5BH3NLA83699",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/88684d81efd3.html",
+      "condition": "used"
+    },
+    {
+      "name": "2022FordBroncoOuter Banks4x4",
       "vin": "1FMDE5BH4NLB25913",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/19570d49cf32.html",
+      "condition": "used"
+    },
+    {
+      "name": "2022FordBroncoOuter Banks4x4",
+      "vin": "1FMDE5BH4NLB25913",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/2f86fe824453.html",
       "condition": "used"
     },
     {
@@ -198,6 +240,12 @@
       "condition": "used"
     },
     {
+      "name": "2022FordF-150XLT 4WD Supercrew 5.5' Box4x4Crew Cab",
+      "vin": "1FTFW1E59NKD82544",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/ca4bd4827178.html",
+      "condition": "used"
+    },
+    {
       "name": "2022LincolnAviatorReserve AWD",
       "vin": "5LM5J7XC2NGL17667",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/3dbc3d8981bc.html",
@@ -216,15 +264,21 @@
       "condition": "used"
     },
     {
+      "name": "2023FordBronco4x4",
+      "vin": "1FMEE5DP9PLB49782",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/9ff6638ee37d.html",
+      "condition": "used"
+    },
+    {
       "name": "2023FordEscapeST-Line AWD",
       "vin": "1FMCU9MZ3PUB09100",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/7db8f7d2bf03.html",
       "condition": "used"
     },
     {
-      "name": "2023FordF-1504x4Crew Cab",
-      "vin": "1FTFW1E59PFC89387",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/ef5ed9851305.html",
+      "name": "2023FordEscapeST-Line AWD",
+      "vin": "1FMCU9MZ3PUB09100",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/de7e4e9e1e51.html",
       "condition": "used"
     },
     {
@@ -252,9 +306,27 @@
       "condition": "used"
     },
     {
-      "name": "2023FordF-1504x4Crew Cab",
-      "vin": "1FTFW1E83PKE54450",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/0d354f7de8ea.html",
+      "name": "2023FordF-150 LightningLariat 4WD Supercrew 5.5' BoxAWDCrew Cab",
+      "vin": "1FTVW1EL1PWG20716",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/4a3831b585bb.html",
+      "condition": "used"
+    },
+    {
+      "name": "2023FordF-150 LightningLariat 4WD Supercrew 5.5' BoxAWDCrew Cab",
+      "vin": "1FT6W1EV5PWG19056",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/2a47dc46e684.html",
+      "condition": "used"
+    },
+    {
+      "name": "2023FordF-150 LightningPlatinum 4WD Supercrew 5.5' BoxAWDCrew Cab",
+      "vin": "1FT6W1EV9PWG10408",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/54f2b78e6dcf.html",
+      "condition": "used"
+    },
+    {
+      "name": "2023FordF-150 LightningXLT 4WD Supercrew 5.5' BoxAWDCrew Cab",
+      "vin": "1FTVW1EL4PWG18331",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/9c6045d6c357.html",
       "condition": "used"
     },
     {
@@ -276,9 +348,21 @@
       "condition": "used"
     },
     {
+      "name": "2023FordMaverickAWDCrew Cab",
+      "vin": "3FTTW8F98PRA92369",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/151f62ccf90f.html",
+      "condition": "used"
+    },
+    {
       "name": "2023FordMustangGT FastbackRWD",
       "vin": "1FA6P8CF7P5305874",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/6c37fdc0aa60.html",
+      "condition": "used"
+    },
+    {
+      "name": "2023FordTransit Cargo VanT-150 130\" Low Rf 8670 Gvwr AWD",
+      "vin": "1FTYE2YG1PKA52429",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/b22da3c60679.html",
       "condition": "used"
     },
     {
@@ -312,6 +396,12 @@
       "condition": "used"
     },
     {
+      "name": "2024FordBroncoBig Bend 4 Door 4x4",
+      "vin": "1FMDE7BH6RLA25331",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/07d7467aee72.html",
+      "condition": "used"
+    },
+    {
       "name": "2024FordBronco SportBig Bend 4x4200AEquipment Group",
       "vin": "3FMCR9B66RRF61160",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/4bc1ee7eaacd.html",
@@ -342,9 +432,27 @@
       "condition": "used"
     },
     {
+      "name": "2024FordBroncoWildtrak 4 Door 4x4",
+      "vin": "1FMEE2BP1RLA35103",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/3300d1fbdcd9.html",
+      "condition": "used"
+    },
+    {
       "name": "2024FordExpeditionLimited 4x4",
       "vin": "1FMJU2A82REA85606",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/b8d6ce573d8a.html",
+      "condition": "used"
+    },
+    {
+      "name": "2024FordExpeditionLimited 4x4",
+      "vin": "1FMJU2A82REA85606",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/c1b411929764.html",
+      "condition": "used"
+    },
+    {
+      "name": "2024FordF-150Lariat 4WD Supercrew 5.5' Box4x4Crew Cab",
+      "vin": "1FTFW5LD3RFB53227",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/8416030245ee.html",
       "condition": "used"
     },
     {
@@ -354,27 +462,9 @@
       "condition": "used"
     },
     {
-      "name": "2024FordF-150Lariat4x4Crew Cab",
-      "vin": "1FTFW5LD3RFA86810",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/c1829f54ac51.html",
-      "condition": "used"
-    },
-    {
-      "name": "2024FordF-150 LightningLariat 4WD Supercrew 5.5' Box511AEquipment Group HighAWDCrew Cab",
-      "vin": "1FT6W5L76RWG04841",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/d7c04b43fe0c.html",
-      "condition": "used"
-    },
-    {
-      "name": "2024FordF-150Platinum4x4Crew Cab",
-      "vin": "1FTFW7LD5RFB19270",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/992e3ab8df2e.html",
-      "condition": "used"
-    },
-    {
-      "name": "2024FordF-150Stx 4WD Supercrew 5.5' Box4x4Crew Cab",
-      "vin": "1FTEW2LP3RKD14560",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/4de8223e0160.html",
+      "name": "2024FordF-150XLT 4WD Supercrew 5.5' Box4x4Crew Cab",
+      "vin": "1FTFW3L85RFA38197",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/ce5c77f96573.html",
       "condition": "used"
     },
     {
@@ -385,8 +475,20 @@
     },
     {
       "name": "2024FordF-150XLT 4WD Supercrew 5.5' Box4x4Crew Cab",
+      "vin": "1FTEW3LP1RKD09119",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/70571f079f35.html",
+      "condition": "used"
+    },
+    {
+      "name": "2024FordF-150XLT 4WD Supercrew 5.5' Box4x4Crew Cab",
       "vin": "1FTEW3LP3RFB56090",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/365d2fbce8ba.html",
+      "condition": "used"
+    },
+    {
+      "name": "2024FordF-150XLT 4WD Supercrew 5.5' Box4x4Crew Cab",
+      "vin": "1FTEW3LP3RFB56090",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/1b9d77600f95.html",
       "condition": "used"
     },
     {
@@ -396,21 +498,21 @@
       "condition": "used"
     },
     {
-      "name": "2024FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
-      "vin": "1FTEW3LP0RFA70879",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/edc789f90d74.html",
-      "condition": "used"
-    },
-    {
       "name": "2024FordF-150XLT 4WD Supercrew 5.5' Box4x4Crew Cab",
-      "vin": "1FTEW3LP0RFA13727",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/e6e739f37f83.html",
+      "vin": "1FTEW3LP8RKE70647",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/dac326401820.html",
       "condition": "used"
     },
     {
       "name": "2024FordF-150XLT 4WD Supercrew 5.5' Box4x4Crew Cab",
       "vin": "1FTFW3L84RKD09046",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/ba5a126e0445.html",
+      "condition": "used"
+    },
+    {
+      "name": "2024FordMaverickLariat FWD Supercrew500AEquipment Group StandardCrew Cab",
+      "vin": "3FTTW8M37RRB23967",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/12b4fa6e3a50.html",
       "condition": "used"
     },
     {
@@ -426,9 +528,21 @@
       "condition": "used"
     },
     {
+      "name": "2024FordMustangEcoboost Premium FastbackRWD",
+      "vin": "1FA6P8TH3R5129474",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/645bd21c593d.html",
+      "condition": "used"
+    },
+    {
       "name": "2024FordMustang Mach-ESelect AWD100AEquipment Group",
       "vin": "3FMTK1S59RMA00770",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/427cce78aef9.html",
+      "condition": "used"
+    },
+    {
+      "name": "2024FordMustang Mach-ESelect AWD100AEquipment Group",
+      "vin": "3FMTK1S59RMA00770",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/c7f215a4d42d.html",
       "condition": "used"
     },
     {
@@ -444,15 +558,33 @@
       "condition": "used"
     },
     {
+      "name": "2024FordTransit Cargo VanT-350 Hd 148\" El Hi Rf 9950 Gvwr DRW AWD101AOrder Code",
+      "vin": "1FTBF4UG7RKB07800",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/056e0d963311.html",
+      "condition": "used"
+    },
+    {
       "name": "2024MazdaCX-5GX AWD w/o CdAA00Package",
       "vin": "JM3KFBBL0R0460466",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/406d197ff0b1.html",
       "condition": "used"
     },
     {
+      "name": "2024MazdaCX-5GX AWD w/o CdAA00Package",
+      "vin": "JM3KFBBL0R0460466",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/d05f6b9f08fc.html",
+      "condition": "used"
+    },
+    {
       "name": "2024NissanFrontierCrew Cab 4x4 Long Bed SV",
       "vin": "1N6ED1FK8RN665024",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/5f13ced7449b.html",
+      "condition": "used"
+    },
+    {
+      "name": "2024NissanFrontierCrew Cab 4x4 Long Bed SV",
+      "vin": "1N6ED1FK8RN665024",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/0db887729902.html",
       "condition": "used"
     },
     {
@@ -474,15 +606,45 @@
       "condition": "used"
     },
     {
+      "name": "2025FordBronco SportBig Bend 4x4200AEquipment Group",
+      "vin": "3FMCR9BNXSRF19717",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/9ecde967c6e3.html",
+      "condition": "used"
+    },
+    {
       "name": "2025FordEscapePHEV FWD700AEquipment Group",
       "vin": "1FMCU0E17SUA12799",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/786d7ac7daeb.html",
       "condition": "used"
     },
     {
+      "name": "2025FordEscapePHEV FWD700AEquipment Group",
+      "vin": "1FMCU0E17SUA12799",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/bcaabc909951.html",
+      "condition": "used"
+    },
+    {
+      "name": "2025FordExplorerST-Line 4WD300AEquipment Group Standard Package4x4",
+      "vin": "1FMUK8KH2SGA92750",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/603a44768bd8.html",
+      "condition": "used"
+    },
+    {
       "name": "2025FordExplorerST-Line 4WD300AEquipment Group Standard Package4x4",
       "vin": "1FMUK8KH9SGA59650",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/f84914975493.html",
+      "condition": "used"
+    },
+    {
+      "name": "2025FordExplorerST-Line 4WD300AEquipment Group Standard Package4x4",
+      "vin": "1FMUK8KH9SGA59650",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/adb23aec404f.html",
+      "condition": "used"
+    },
+    {
+      "name": "2025FordF-150 LightningFlash 4WD Supercrew 5.5' Box312AEquipment Group StandardAWDCrew Cab",
+      "vin": "1FTVW3LU6SWG31145",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/949d0635d9ec.html",
       "condition": "used"
     },
     {
@@ -504,15 +666,33 @@
       "condition": "used"
     },
     {
+      "name": "2025FordF-150 LightningLariat 4WD Supercrew 5.5' Box511AEquipment Group HighAWDCrew Cab",
+      "vin": "1FT6W5L76SWG31155",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/3f6f20ef0f3e.html",
+      "condition": "used"
+    },
+    {
       "name": "2025FordMustang Mach-EGT AWD400AEquipment Group Standard Package",
       "vin": "3FMTK4SX6SMA30155",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/469cad5b8f88.html",
       "condition": "used"
     },
     {
+      "name": "2025FordMustang Mach-EGT AWD400AEquipment Group Standard Package",
+      "vin": "3FMTK4SX6SMA30155",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/b8f88b27257f.html",
+      "condition": "used"
+    },
+    {
       "name": "2025FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
       "vin": "3FMTK3SU8SMA50049",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/2a378a3ca63f.html",
+      "condition": "used"
+    },
+    {
+      "name": "2025FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU8SMA50049",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/d0457c4a9ae4.html",
       "condition": "used"
     },
     {
@@ -528,6 +708,12 @@
       "condition": "used"
     },
     {
+      "name": "2025LincolnNautilusReserve AWD",
+      "vin": "5LMPJ8KA2SJ952469",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/b4869561a1a1.html",
+      "condition": "used"
+    },
+    {
       "name": "2025Mazda3 SportGX Auto FWDAA00Package",
       "vin": "JM1BPAKM4S1799000",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/95c7a49deabf.html",
@@ -540,9 +726,21 @@
       "condition": "used"
     },
     {
+      "name": "2025ToyotaRAV4XLE AWD",
+      "vin": "2T3R1RFV3SW619881",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/1b0dfa526e81.html",
+      "condition": "used"
+    },
+    {
       "name": "2026FordEscapePHEV FWD700AEquipment Group",
       "vin": "1FMCU0E15TUA01432",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/0e772763b5a9.html",
+      "condition": "used"
+    },
+    {
+      "name": "2026FordEscapePHEV FWD700AEquipment Group",
+      "vin": "1FMCU0E15TUA01432",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/3e54822b90f6.html",
       "condition": "used"
     },
     {
@@ -558,9 +756,21 @@
       "condition": "used"
     },
     {
+      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box4x4Crew Cab",
+      "vin": "1FTFW5LD9TFA45394",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/7fb62c2785c0.html",
+      "condition": "used"
+    },
+    {
       "name": "2026FordF-150Platinum 4WD Supercrew 5.5' Box4x4Crew Cab",
       "vin": "1FTFW7LD7TFA61590",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/5b59dfc53da1.html",
+      "condition": "used"
+    },
+    {
+      "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box4x4Crew Cab",
+      "vin": "1FTFW1RGXTFA47021",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/c39c9a8296ca.html",
       "condition": "used"
     },
     {
