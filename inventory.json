@@ -1,7 +1,7 @@
 {
   "dealership": "Brown Bros Ford Lincoln",
-  "generated_at": "2026-11-16T16:44:35",
-  "vehicle_count": 353,
+  "generated_at": "2026-11-17T18:05:00",
+  "vehicle_count": 530,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -828,6 +828,12 @@
       "condition": "new"
     },
     {
+      "name": "2022FordSuper Duty F-350 SRW4x4Crew Cab",
+      "vin": "1FT8W3BT1NEF69525",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/229ff783c6df.html",
+      "condition": "new"
+    },
+    {
       "name": "2023FordF-150 LightningAWDCrew Cab",
       "vin": "1FTVW1EL4PWG18331",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/3552a2a06105.html",
@@ -837,6 +843,12 @@
       "name": "2023FordF-150 LightningAWDCrew Cab",
       "vin": "1FT6W1EV9PWG10408",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/021e095d958c.html",
+      "condition": "new"
+    },
+    {
+      "name": "2023FordF-150Raptor 4WD Supercrew 5.5' Box4x4Crew Cab",
+      "vin": "1FTFW1RG0PFA03485",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/9a15d248c4a8.html",
       "condition": "new"
     },
     {
@@ -852,9 +864,9 @@
       "condition": "new"
     },
     {
-      "name": "2024FordF-150XLT4x4Crew Cab",
-      "vin": "1FTFW3L88RKF37759",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/db9dd0da42b2.html",
+      "name": "2024FordBronco SportBadlands 4x4400AEquipment Group",
+      "vin": "3FMCR9D91RRE98346",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/8a464141ba3d.html",
       "condition": "new"
     },
     {
@@ -864,9 +876,21 @@
       "condition": "new"
     },
     {
+      "name": "2025FordBroncoBadlands 4 Door 4x4332AEquipment Group Mid Package",
+      "vin": "1FMEE9BP2SLA74345",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/350635b0a1af.html",
+      "condition": "new"
+    },
+    {
       "name": "2025FordBroncoBig Bend 4 Door 4x4222AEquipment Group Mid Package",
       "vin": "1FMDE7BH6SLA58853",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/5cb5f1216023.html",
+      "condition": "new"
+    },
+    {
+      "name": "2025FordBroncoBig Bend 4 Door 4x4222AEquipment Group Mid Package",
+      "vin": "1FMDE7BH6SLA58853",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cca2f0d2878c.html",
       "condition": "new"
     },
     {
@@ -876,9 +900,21 @@
       "condition": "new"
     },
     {
+      "name": "2025FordBroncoOuter Banks 4 Door 4x4314AEquipment Group High/Lux Package",
+      "vin": "1FMDE8BH0SLB27171",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f616333e63de.html",
+      "condition": "new"
+    },
+    {
       "name": "2025FordBroncoRaptor 4 Door 4x4374AEquipment Group Lux Package",
       "vin": "1FMEE0RR1SLA56860",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/64e041ea1b86.html",
+      "condition": "new"
+    },
+    {
+      "name": "2025FordBroncoRaptor 4 Door 4x4374AEquipment Group Lux Package",
+      "vin": "1FMEE0RR1SLA56860",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/142f9a40c815.html",
       "condition": "new"
     },
     {
@@ -894,9 +930,27 @@
       "condition": "new"
     },
     {
+      "name": "2025FordEscapeActive FWD200AEquipment Group",
+      "vin": "1FMCU0GN2SUB49178",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/e1947a534c73.html",
+      "condition": "new"
+    },
+    {
+      "name": "2025FordF-150Raptor 4WD Supercrew 5.5' Box4x4Crew Cab",
+      "vin": "1FTFW1RG7SFA88480",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/6b36f0bece1d.html",
+      "condition": "new"
+    },
+    {
       "name": "2025FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
       "vin": "1FTFW1RG2SFA88757",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/35c60147a93e.html",
+      "condition": "new"
+    },
+    {
+      "name": "2025FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
+      "vin": "1FTFW1RG2SFA88757",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/8d38099c1a32.html",
       "condition": "new"
     },
     {
@@ -918,9 +972,27 @@
       "condition": "new"
     },
     {
+      "name": "2025FordTransit Cargo VanT-250 148\" Low Rf 9070 Gvwr RWD101AOrder Code",
+      "vin": "1FTBR1Y86SKA69829",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/595436737b47.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordBroncoBadlands 2 Door 4x4334AEquipment Group Lux Package",
+      "vin": "1FMDE9AH6TLA47477",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cd3634d93b21.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordBroncoBig Bend 4 Door 4x4222AEquipment Group Mid Package",
       "vin": "1FMEE7BH4TLA77598",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/94086f4e8691.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordBroncoBig Bend 4 Door 4x4222AEquipment Group Mid Package",
+      "vin": "1FMEE7BH4TLA77598",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/997a171b33bc.html",
       "condition": "new"
     },
     {
@@ -931,14 +1003,32 @@
     },
     {
       "name": "2026FordBroncoBig Bend 4 Door 4x4222AEquipment Group Mid Package",
+      "vin": "1FMEE7BHXTLB56208",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ab738139432d.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordBroncoBig Bend 4 Door 4x4222AEquipment Group Mid Package",
       "vin": "1FMEE7BH1TLA62203",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ae61b88d5e6d.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordBroncoBig Bend 4 Door 4x4222AEquipment Group Mid Package",
+      "vin": "1FMEE7BH1TLA62203",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/34cb152263f3.html",
       "condition": "new"
     },
     {
       "name": "2026FordBroncoOuter Banks 4 Door 4x4312AEquipment Group Mid Package",
       "vin": "1FMDE8BH1TLA44138",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/1b6e218fc765.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordBroncoOuter Banks 4 Door 4x4312AEquipment Group Mid Package",
+      "vin": "1FMDE8BH1TLA44138",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/b5fe9f95a48c.html",
       "condition": "new"
     },
     {
@@ -954,9 +1044,21 @@
       "condition": "new"
     },
     {
+      "name": "2026FordBroncoOuter Banks 4 Door 4x4312AEquipment Group Mid Package",
+      "vin": "1FMEE8BP1TLA48315",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/c78b4c0a8bee.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordBronco SportBadlands 4x4400AEquipment Group",
       "vin": "3FMCR9DA6TRE03085",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/c888d833183c.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordBronco SportBadlands 4x4400AEquipment Group",
+      "vin": "3FMCR9DA6TRE03085",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/abaab3d9e572.html",
       "condition": "new"
     },
     {
@@ -973,8 +1075,20 @@
     },
     {
       "name": "2026FordBronco SportBig Bend 4x4200AEquipment Group Standard Package",
+      "vin": "3FMCR9BN6TRE19034",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/646687f3cb81.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordBronco SportBig Bend 4x4200AEquipment Group Standard Package",
       "vin": "3FMCR9BN0TRE85143",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/48e031888d79.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordBronco SportBig Bend 4x4200AEquipment Group Standard Package",
+      "vin": "3FMCR9BN0TRE85143",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/e45523fd9ccd.html",
       "condition": "new"
     },
     {
@@ -985,8 +1099,20 @@
     },
     {
       "name": "2026FordBronco SportOuter Banks 4x4300AEquipment Group",
+      "vin": "3FMCR9CN2TRE70402",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/12b57515a5d1.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordBronco SportOuter Banks 4x4300AEquipment Group",
       "vin": "3FMCR9CN3TRE97835",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/6af5e7fd8497.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordBronco SportOuter Banks 4x4300AEquipment Group",
+      "vin": "3FMCR9CN3TRE97835",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/26a644c9f29d.html",
       "condition": "new"
     },
     {
@@ -997,8 +1123,20 @@
     },
     {
       "name": "2026FordBronco SportOuter Banks 4x4300AEquipment Group",
+      "vin": "3FMCR9CN6TRF14501",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/808fb66633a2.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordBronco SportOuter Banks 4x4300AEquipment Group",
       "vin": "3FMCR9CN9TRF28893",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/2f05b534c7a9.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordBronco SportOuter Banks 4x4300AEquipment Group",
+      "vin": "3FMCR9CN9TRF28893",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/5213281bc642.html",
       "condition": "new"
     },
     {
@@ -1008,9 +1146,21 @@
       "condition": "new"
     },
     {
+      "name": "2026FordBronco SportOuter Banks 4x4300AEquipment Group",
+      "vin": "3FMCR9CN9TRF42289",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/90cf6916c316.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordExplorerST 4WD400AEquipment Group Standard Package4x4",
       "vin": "1FMWK8GC7TGC08371",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/d61699d59b45.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordExplorerST 4WD400AEquipment Group Standard Package4x4",
+      "vin": "1FMWK8GC7TGC08371",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/501501c3d4b2.html",
       "condition": "new"
     },
     {
@@ -1020,15 +1170,33 @@
       "condition": "new"
     },
     {
+      "name": "2026FordExplorerST-Line 4WD300AEquipment Group Standard Package4x4",
+      "vin": "1FMUK8KH4TGB32618",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/5cf81ce7b209.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
       "vin": "1FTFW5L83TFB62164",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/725d47cca84c.html",
       "condition": "new"
     },
     {
+      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5L83TFB62164",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/90a53df106ba.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
       "vin": "1FTFW5L84TKE35457",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/0c055ff675e4.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
+      "vin": "1FTFW5L84TKE35457",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/1d3ab2351da5.html",
       "condition": "new"
     },
     {
@@ -1039,8 +1207,20 @@
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5LD1TFB76674",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/1a55d613129a.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
       "vin": "1FTFW5L86TFB63521",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/dd713a9103fe.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5L86TFB63521",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/d24c82f74daf.html",
       "condition": "new"
     },
     {
@@ -1050,9 +1230,21 @@
       "condition": "new"
     },
     {
+      "name": "2026FordF-150Lariat 4WD Supercrew 6.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5LD2TFB76506",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/7c6d0999a1d7.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
       "vin": "1FTFW5LD9TFC52867",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/3716e4fc8ca5.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5LD9TFC52867",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/807b2f8e4a82.html",
       "condition": "new"
     },
     {
@@ -1062,9 +1254,21 @@
       "condition": "new"
     },
     {
+      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
+      "vin": "1FTFW5L83TKE35644",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/d66dcd22e8d1.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
       "vin": "1FTFW5L86TFB66788",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/51f8002222d9.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5L86TFB66788",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/8fd9df27c2d0.html",
       "condition": "new"
     },
     {
@@ -1075,14 +1279,20 @@
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
+      "vin": "1FTFW5L89TFB62072",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/82bb160e4aaa.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
       "vin": "1FTFW5LD0TFB48168",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/722f39818c1e.html",
       "condition": "new"
     },
     {
-      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
-      "vin": "1FTFW5LD2TFC25803",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/a6b71a2373b7.html",
+      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
+      "vin": "1FTFW5LD0TFB48168",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/994d4e94c366.html",
       "condition": "new"
     },
     {
@@ -1092,9 +1302,21 @@
       "condition": "new"
     },
     {
+      "name": "2026FordF-150Lariat 4WD Supercrew 6.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
+      "vin": "1FTFW5LD5TFA13090",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/287a4e928cd5.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
       "vin": "1FTFW5L87TKE35811",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/5afa2b641d91.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
+      "vin": "1FTFW5L87TKE35811",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/47846246a371.html",
       "condition": "new"
     },
     {
@@ -1104,9 +1326,21 @@
       "condition": "new"
     },
     {
+      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5LD9TFB73635",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/0c561f615ed2.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
       "vin": "1FTFW5LD8TFB77823",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/819d92ab0bbc.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
+      "vin": "1FTFW5LD8TFB77823",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/b4d31f3b6ca0.html",
       "condition": "new"
     },
     {
@@ -1116,15 +1350,9 @@
       "condition": "new"
     },
     {
-      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
-      "vin": "1FTFW5L87TFA88182",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f8f91e4e7653.html",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
-      "vin": "1FTFW5LD0TFB74334",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cb3deb964733.html",
+      "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5L81TFB69730",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/1f03d036fd18.html",
       "condition": "new"
     },
     {
@@ -1135,20 +1363,20 @@
     },
     {
       "name": "2026FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Standard4x4Crew Cab",
-      "vin": "1FTFW5L83TKE35790",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/98b59047768a.html",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordF-150Platinum 4WD Supercrew 5.5' Box702AEquipment Group High4x4Crew Cab",
-      "vin": "1FTFW7LD7TFA69446",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/e7f43b7dd013.html",
+      "vin": "1FTFW5L80TFB73476",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ad58a8181ae4.html",
       "condition": "new"
     },
     {
       "name": "2026FordF-150Platinum 4WD Supercrew 5.5' Box702AEquipment Group High4x4Crew Cab",
       "vin": "1FTFW7L82TFA60561",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/1737a1915c8a.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Platinum 4WD Supercrew 5.5' Box702AEquipment Group High4x4Crew Cab",
+      "vin": "1FTFW7L82TFA60561",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/91519063e2ed.html",
       "condition": "new"
     },
     {
@@ -1159,8 +1387,8 @@
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
-      "vin": "1FTFW1RG3TFB16793",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/622957f632fa.html",
+      "vin": "1FTFW1RG5TFB89809",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/7c9c5e775c8d.html",
       "condition": "new"
     },
     {
@@ -1171,8 +1399,20 @@
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
+      "vin": "1FTFW1RG1TFB15769",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/3d1f0342c202.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
       "vin": "1FTFW1RG3TFB39734",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/4c4c2342d6fd.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
+      "vin": "1FTFW1RG3TFB39734",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/1677bcdea553.html",
       "condition": "new"
     },
     {
@@ -1183,8 +1423,20 @@
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
+      "vin": "1FTFW1RG2TFA30925",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/0e6d8cebc388.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
       "vin": "1FTFW1RG5TFB40979",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/0c4032833790.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
+      "vin": "1FTFW1RG5TFB40979",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f8a200366941.html",
       "condition": "new"
     },
     {
@@ -1201,8 +1453,20 @@
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
+      "vin": "1FTFW1RGXTFB89806",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/94be83cdbb36.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
       "vin": "1FTFW1RG8TFB89805",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ae9c89393ae9.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
+      "vin": "1FTFW1RG8TFB89805",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/86eeead8874e.html",
       "condition": "new"
     },
     {
@@ -1213,8 +1477,20 @@
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
+      "vin": "1FTFW1RG1TFB89807",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/bdd9ad45a073.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
       "vin": "1FTFW1RG5TFB40030",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/398fa2b77105.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
+      "vin": "1FTFW1RG5TFB40030",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/bb793c5b495e.html",
       "condition": "new"
     },
     {
@@ -1230,9 +1506,21 @@
       "condition": "new"
     },
     {
+      "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box200B-0Equipment Group 200b Standard4x4Crew Cab",
+      "vin": "1FTEW2LP9TKF00501",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ddaa7e8aa366.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box200A-0Equipment Group 200A Mid4x4Crew Cab",
       "vin": "1FTEW2L51TFA43044",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/2245ec9e77e7.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box200A-0Equipment Group 200A Mid4x4Crew Cab",
+      "vin": "1FTEW2L51TFA43044",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/85d6249322d1.html",
       "condition": "new"
     },
     {
@@ -1243,14 +1531,32 @@
     },
     {
       "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box200A-0Equipment Group 200A Mid4x4Crew Cab",
+      "vin": "1FTFW2LD9TFB64187",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/302a6f9b88df.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box200A-0Equipment Group 200A Mid4x4Crew Cab",
       "vin": "1FTEW2LPXTKE09317",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/8e2bbc1729e7.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box200A-0Equipment Group 200A Mid4x4Crew Cab",
+      "vin": "1FTEW2LPXTKE09317",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/fe3f574f013e.html",
       "condition": "new"
     },
     {
       "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box201A-0Equipment Group 201a Fx44x4Crew Cab",
       "vin": "1FTFW2L80TKE73332",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/4c59fca596d2.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box201A-0Equipment Group 201a Fx44x4Crew Cab",
+      "vin": "1FTFW2L80TKE73332",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/57741a694436.html",
       "condition": "new"
     },
     {
@@ -1273,8 +1579,20 @@
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L88TKD32014",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/3b1d28d5da25.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
       "vin": "1FTFW3L85TKE22186",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/371ca9a85d40.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L85TKE22186",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/20773eab0661.html",
       "condition": "new"
     },
     {
@@ -1285,14 +1603,32 @@
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L88TKD53736",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/d11c205cbd71.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
       "vin": "1FTFW3LD8TFA36030",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cd12fa099b45.html",
       "condition": "new"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3LD8TFA36030",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/6e352bf7aab3.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
       "vin": "1FTFW3L84TKE54739",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ad9c512d3f98.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L84TKE54739",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/978cd90c7932.html",
       "condition": "new"
     },
     {
@@ -1309,14 +1645,32 @@
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3LD8TFB85442",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ad259650d29e.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
       "vin": "1FTFW3LD1TFB08167",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/bc175517e6b1.html",
       "condition": "new"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3LD1TFB08167",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/9006b51c41dc.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
       "vin": "1FTFW3L88TKD59388",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/045b0eee17fc.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L88TKD59388",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/e71c4fdc0318.html",
       "condition": "new"
     },
     {
@@ -1329,6 +1683,12 @@
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
       "vin": "1FTFW3LD6TFA36933",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f038469f7883.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3LD6TFA36933",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ee98baacfeb6.html",
       "condition": "new"
     },
     {
@@ -1351,14 +1711,38 @@
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
+      "vin": "1FTFW3L82TKE85584",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/30012d369604.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
       "vin": "1FTFW3LD4TFB82991",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ddd2969c20c4.html",
       "condition": "new"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
+      "vin": "1FTFW3LD4TFB82991",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/7256de97c925.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 6.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3LD0TFB86830",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/bb3209cbf2b1.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
       "vin": "1FTFW3LD1TFC55492",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/5becb94f6e4d.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
+      "vin": "1FTFW3LD1TFC55492",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/bd404727e12a.html",
       "condition": "new"
     },
     {
@@ -1369,8 +1753,20 @@
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L89TKE29965",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/d28ca63e9248.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
       "vin": "1FTFW3L89TKD33222",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/d064e9acf624.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L89TKD33222",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/d1462a59b5be.html",
       "condition": "new"
     },
     {
@@ -1381,8 +1777,20 @@
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3LDXTFA44033",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/8e063c31b178.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
       "vin": "1FTFW3LD4TFA74080",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/a59ae0e2010f.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3LD4TFA74080",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/e2368f726359.html",
       "condition": "new"
     },
     {
@@ -1393,8 +1801,20 @@
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L89TKD70710",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/3c0013116920.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
       "vin": "1FTFW3L82TKE53573",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/1456d85763cd.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L82TKE53573",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/2337da848454.html",
       "condition": "new"
     },
     {
@@ -1411,8 +1831,20 @@
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3LD3TFA77732",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/3931b5f5083c.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
       "vin": "1FTFW3L81TKE26316",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/fbde775663c2.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L81TKE26316",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/9e6e5407c0a1.html",
       "condition": "new"
     },
     {
@@ -1422,15 +1854,33 @@
       "condition": "new"
     },
     {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L87TFB07060",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/19ba0375d32d.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box300A-0Equipment Group 300A Base4x4Crew Cab",
       "vin": "1FTFW3L83TKE70463",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/4966eb573a0f.html",
       "condition": "new"
     },
     {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box300A-0Equipment Group 300A Base4x4Crew Cab",
+      "vin": "1FTFW3L83TKE70463",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/1b0684204599.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box301A-0Equipment Group 301A Standard4x4Crew Cab",
       "vin": "1FTFW3LD0TFC22841",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/0e01d20424cb.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box301A-0Equipment Group 301A Standard4x4Crew Cab",
+      "vin": "1FTFW3LD0TFC22841",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/7fd71fc294e7.html",
       "condition": "new"
     },
     {
@@ -1441,14 +1891,32 @@
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L84TFB54868",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/67bf21f07f4a.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
       "vin": "1FTFW3L83TKE42694",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/6bff0b94cc64.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L83TKE42694",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/9f7a6a1d1b30.html",
       "condition": "new"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
       "vin": "1FTFW3LD3TFB80729",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/0bca134f2b2b.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
+      "vin": "1FTFW3LD3TFB80729",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f50c505962c5.html",
       "condition": "new"
     },
     {
@@ -1464,9 +1932,21 @@
       "condition": "new"
     },
     {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L83TKD29201",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/bb59bebf3205.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
       "vin": "1FTFW3L86TKE74443",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/64e47e5e57b0.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box303A-0Equipment Group 303A High4x4Crew Cab",
+      "vin": "1FTFW3L86TKE74443",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/3bf42f6e2964.html",
       "condition": "new"
     },
     {
@@ -1477,14 +1957,32 @@
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L83TKD32017",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/c296a64bf814.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
       "vin": "1FTFW3L82TKE26213",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/7b4237c6f749.html",
       "condition": "new"
     },
     {
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L82TKE26213",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/06a3ea697b63.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
       "vin": "1FTFW3LD0TFA34997",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/993fb2337d61.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3LD0TFA34997",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/5ff45c3fae4f.html",
       "condition": "new"
     },
     {
@@ -1497,6 +1995,30 @@
       "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
       "vin": "1FTFW3L86TKD28799",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ef3a802bdfec.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3L86TKD28799",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/9f1661a846e3.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMaverickXLT AWD Supercrew301AEquipment GroupCrew Cab",
+      "vin": "3FTTW8J36TRB15192",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/4e799e6bf714.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMaverickXLT AWD Supercrew301AEquipment GroupCrew Cab",
+      "vin": "3FTTW8J31TRB56118",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/8e16d25d9a9f.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMaverickXLT AWD Supercrew301AEquipment GroupCrew Cab",
+      "vin": "3FTTW8J31TRB71721",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/26fbec32bc8c.html",
       "condition": "new"
     },
     {
@@ -1530,9 +2052,21 @@
       "condition": "new"
     },
     {
+      "name": "2026FordMustangDark Horse Sc Coupe970AEquipment Group High PackageRWD",
+      "vin": "1FA6P8GJ9T5552340",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/322aad7b7914.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordMustangDark Horse Sc Coupe950AEquipment Group Standard PackageRWD",
       "vin": "1FA6P8GJ0T5551657",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/60ee1b423f44.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustangDark Horse Sc Coupe950AEquipment Group Standard PackageRWD",
+      "vin": "1FA6P8GJ0T5551657",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/351768e9537e.html",
       "condition": "new"
     },
     {
@@ -1543,8 +2077,20 @@
     },
     {
       "name": "2026FordMustangDark Horse Sc Coupe950AEquipment Group Standard PackageRWD",
+      "vin": "1FA6P8GJ2T5552485",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/fa19dec8a0c0.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustangDark Horse Sc Coupe950AEquipment Group Standard PackageRWD",
       "vin": "1FA6P8GJ1T5551909",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/61e59dcd441f.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustangDark Horse Sc Coupe950AEquipment Group Standard PackageRWD",
+      "vin": "1FA6P8GJ1T5551909",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/5e7c3b7f681a.html",
       "condition": "new"
     },
     {
@@ -1567,8 +2113,20 @@
     },
     {
       "name": "2026FordMustangEcoboost Premium Fastback201AEquipment Group High PackageRWD",
+      "vin": "1FA6P8TH3T5118045",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cecb137bd925.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustangEcoboost Premium Fastback201AEquipment Group High PackageRWD",
       "vin": "1FA6P8TH2T5132356",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/819951dc853c.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustangEcoboost Premium Fastback201AEquipment Group High PackageRWD",
+      "vin": "1FA6P8TH2T5132356",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/606a1c48fcf9.html",
       "condition": "new"
     },
     {
@@ -1578,9 +2136,21 @@
       "condition": "new"
     },
     {
+      "name": "2026FordMustangEcoboost Fastback100AEquipment Group Standard PackageRWD",
+      "vin": "1FA6P8TH3T5111502",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/d5df02814aff.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordMustangGT Premium Fastback400AEquipment Group Standard PackageRWD",
       "vin": "1FA6P8CF8T5410479",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cc1b8c74167f.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustangGT Premium Fastback400AEquipment Group Standard PackageRWD",
+      "vin": "1FA6P8CF8T5410479",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/b953e06bde76.html",
       "condition": "new"
     },
     {
@@ -1591,14 +2161,32 @@
     },
     {
       "name": "2026FordMustangGT Premium Fastback401AEquipment Group High PackageRWD",
+      "vin": "1FA6P8CF3T5408798",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/48a5f1750a3f.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustangGT Premium Fastback401AEquipment Group High PackageRWD",
       "vin": "1FA6P8CFXT5404716",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f793b9627957.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustangGT Premium Fastback401AEquipment Group High PackageRWD",
+      "vin": "1FA6P8CFXT5404716",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/db1c2b3e649a.html",
       "condition": "new"
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
       "vin": "3FMTK3SU0TMA09223",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/6150b069124f.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU0TMA09223",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/af89d75c74d1.html",
       "condition": "new"
     },
     {
@@ -1615,8 +2203,32 @@
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU5TMA17818",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/92429e972ff6.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU4TMA34433",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/a3eff1cd0912.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
       "vin": "3FMTK3SU3TMA24184",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/469213924b6a.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU3TMA24184",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/5f5e5b36aed5.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU7TMA34913",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/e8413e2e8477.html",
       "condition": "new"
     },
     {
@@ -1627,8 +2239,20 @@
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SUXTMA24733",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/83ae01505940.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
       "vin": "3FMTK3S59TMA30287",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/2181c01930dc.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3S59TMA30287",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/95448b285e77.html",
       "condition": "new"
     },
     {
@@ -1639,8 +2263,20 @@
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3S5XTMA33764",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/59cc8d1ab6c2.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
       "vin": "3FMTK3S50TMA12079",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/91ef2b7c701a.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3S50TMA12079",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/c63ecad7d321.html",
       "condition": "new"
     },
     {
@@ -1651,8 +2287,20 @@
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU0TMA18083",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/36a66cba23f2.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
       "vin": "3FMTK3S50TMA14964",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/391f21e7f66d.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3S50TMA14964",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/139e3908fa56.html",
       "condition": "new"
     },
     {
@@ -1663,8 +2311,20 @@
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU2TMA15427",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/8ebb16664c95.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
       "vin": "3FMTK3SU5TMA18287",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/672872c5322c.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU5TMA18287",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f14440931e33.html",
       "condition": "new"
     },
     {
@@ -1675,8 +2335,20 @@
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU5TMA23618",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/a7b6ff823f4b.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
       "vin": "3FMTK3SU1TMA29268",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/e0c89640004c.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU1TMA29268",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/7417d435241d.html",
       "condition": "new"
     },
     {
@@ -1687,8 +2359,20 @@
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3S56TMA33955",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/78a9f9747498.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
       "vin": "3FMTK3SU2TMA21518",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/88a0245b4a7a.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU2TMA21518",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/fedd4bd1b807.html",
       "condition": "new"
     },
     {
@@ -1699,8 +2383,20 @@
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU2TMA18327",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/fad5d52eb215.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
       "vin": "3FMTK3SU2TMA29733",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/7aff7cde10e8.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU2TMA29733",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/5821d9237846.html",
       "condition": "new"
     },
     {
@@ -1711,8 +2407,20 @@
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU8TMA21748",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/7f60cd7ba7af.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
       "vin": "3FMTK3SU9TMA18373",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cfe6b2cd2d50.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU9TMA18373",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/5f8b49b981cf.html",
       "condition": "new"
     },
     {
@@ -1723,8 +2431,20 @@
     },
     {
       "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU5TMA08925",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/7a211f177737.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
       "vin": "3FMTK3SU9TMA17241",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/c6228a4490d6.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-EPremium AWD300AEquipment Group Standard Package",
+      "vin": "3FMTK3SU9TMA17241",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f2b6af006753.html",
       "condition": "new"
     },
     {
@@ -1735,8 +2455,20 @@
     },
     {
       "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
+      "vin": "3FMTK1SU1TMA23216",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/d2a086a5c131.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
       "vin": "3FMTK1SUXTMA20766",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/0594cd85e692.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
+      "vin": "3FMTK1SUXTMA20766",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/6718ec36b4e6.html",
       "condition": "new"
     },
     {
@@ -1747,14 +2479,32 @@
     },
     {
       "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
+      "vin": "3FMTK1SU9TMA24081",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/2da0d0d87e55.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
       "vin": "3FMTK1SU6TMA23289",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f2becdabb074.html",
       "condition": "new"
     },
     {
       "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
+      "vin": "3FMTK1SU6TMA23289",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/6b860027c28d.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
       "vin": "3FMTK1S52TMA24593",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/8a5c55a86909.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
+      "vin": "3FMTK1S52TMA24593",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/af903bab3689.html",
       "condition": "new"
     },
     {
@@ -1771,8 +2521,20 @@
     },
     {
       "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
+      "vin": "3FMTK1S59TMA33985",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/58e5b824f72b.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
       "vin": "3FMTK1SUXTMA29239",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/6f2d570a3289.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
+      "vin": "3FMTK1SUXTMA29239",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/55b68bfcb0d3.html",
       "condition": "new"
     },
     {
@@ -1783,8 +2545,20 @@
     },
     {
       "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
+      "vin": "3FMTK1S5XTMA18900",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/adc0373e0aa0.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
       "vin": "3FMTK1S5XTMA24745",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/528458a554f5.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordMustang Mach-ESelect AWD100AEquipment Group Standard Package",
+      "vin": "3FMTK1S5XTMA24745",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ad02d90093de.html",
       "condition": "new"
     },
     {
@@ -1807,14 +2581,32 @@
     },
     {
       "name": "2026FordRangerLariat 4WD Supercrew 5' Box500AEquipment Group4x4Crew Cab",
+      "vin": "1FTER4KH6TLE02033",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/a95d41ea6cb9.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordRangerLariat 4WD Supercrew 5' Box500AEquipment Group4x4Crew Cab",
       "vin": "1FTER4KH1TLE32637",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/a43d229304bb.html",
       "condition": "new"
     },
     {
       "name": "2026FordRangerLariat 4WD Supercrew 5' Box500AEquipment Group4x4Crew Cab",
+      "vin": "1FTER4KH1TLE32637",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/06be7cdf32d7.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordRangerLariat 4WD Supercrew 5' Box500AEquipment Group4x4Crew Cab",
       "vin": "1FTER4KP7TLE14635",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/9e00a207dbf4.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordRangerLariat 4WD Supercrew 5' Box500AEquipment Group4x4Crew Cab",
+      "vin": "1FTER4KP7TLE14635",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/59e79c350faf.html",
       "condition": "new"
     },
     {
@@ -1825,8 +2617,20 @@
     },
     {
       "name": "2026FordRangerRaptor 4WD Supercrew 5' Box800AEquipment Group4x4Crew Cab",
+      "vin": "1FTER4LR9TLE34319",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f3881daba3c9.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordRangerRaptor 4WD Supercrew 5' Box800AEquipment Group4x4Crew Cab",
       "vin": "1FTER4LR6TLE22970",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/dd2434ddad78.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordRangerRaptor 4WD Supercrew 5' Box800AEquipment Group4x4Crew Cab",
+      "vin": "1FTER4LR6TLE22970",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/aa359ebf16e6.html",
       "condition": "new"
     },
     {
@@ -1836,9 +2640,21 @@
       "condition": "new"
     },
     {
+      "name": "2026FordRangerXL 4WD Supercrew 5' Box100AEquipment Group4x4Crew Cab",
+      "vin": "1FTER4PH7TLE24082",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ae8ec01eeb63.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordRangerXLT 4WD Supercrew 5' Box300AEquipment Group Standard4x4Crew Cab",
       "vin": "1FTER4HH0TLE24049",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/a11779db1d0c.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordRangerXLT 4WD Supercrew 5' Box300AEquipment Group Standard4x4Crew Cab",
+      "vin": "1FTER4HH0TLE24049",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/23958bfe8851.html",
       "condition": "new"
     },
     {
@@ -1849,8 +2665,20 @@
     },
     {
       "name": "2026FordRangerXLT 4WD Supercrew 5' Box301AEquipment Group High4x4Crew Cab",
+      "vin": "1FTER4HP0TLE14323",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ed4916251242.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordRangerXLT 4WD Supercrew 5' Box301AEquipment Group High4x4Crew Cab",
       "vin": "1FTER4HPXTLE30125",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/3f33924b6065.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordRangerXLT 4WD Supercrew 5' Box301AEquipment Group High4x4Crew Cab",
+      "vin": "1FTER4HPXTLE30125",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/dcc06277f9df.html",
       "condition": "new"
     },
     {
@@ -1860,9 +2688,21 @@
       "condition": "new"
     },
     {
+      "name": "2026FordRangerXLT 4WD Supercrew 5' Box301AEquipment Group High4x4Crew Cab",
+      "vin": "1FTER4HP5TLE33689",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/2523fe500e5a.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordSuper Duty F-350 SRWPlatinum 4WD Crew Cab 6.75' Box713AOrder Code4x4",
       "vin": "1FT8W3BT8TEE29209",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/d9a75b3d490f.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordSuper Duty F-350 SRWPlatinum 4WD Crew Cab 6.75' Box713AOrder Code4x4",
+      "vin": "1FT8W3BT8TEE29209",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/e549bc1501d9.html",
       "condition": "new"
     },
     {
@@ -1878,9 +2718,21 @@
       "condition": "new"
     },
     {
+      "name": "2026FordSuper Duty F-550 DRWXL 4WD Reg Cab 145\" WB 60\" Ca660AOrder Code4x4Regular",
+      "vin": "1FDFF5HT7TDA15737",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/062913477405.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordSuper Duty F-600 DRWXLT 4WD Reg Cab 205\" WB 120\" Ca683AOrder Code4x4Regular",
       "vin": "1FDFF6LT8TDA01679",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f3cf7f9f584e.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordSuper Duty F-600 DRWXLT 4WD Reg Cab 205\" WB 120\" Ca683AOrder Code4x4Regular",
+      "vin": "1FDFF6LT8TDA01679",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/eacdb9f082b8.html",
       "condition": "new"
     },
     {
@@ -1890,9 +2742,27 @@
       "condition": "new"
     },
     {
+      "name": "2026FordTransit Cargo VanT-250 148\" Med Rf 9070 Gvwr RWD101AOrder Code",
+      "vin": "1FTBR1C85TKA77655",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/b1f1088ce175.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordTransit Cargo VanT-350 148\" Med Rf 9500 Gvwr RWD101AOrder Code",
+      "vin": "1FTBW9C88TKA90200",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/589ecbe10495.html",
+      "condition": "new"
+    },
+    {
       "name": "2026FordTransit Cargo VanT-150 148\" Low Rf 8670 Gvwr AWD",
       "vin": "1FTYE2Y89TKB28594",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/dbd9ce8b48c1.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordTransit Cargo VanT-150 148\" Low Rf 8670 Gvwr AWD",
+      "vin": "1FTYE2Y89TKB28594",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cfb460ca3883.html",
       "condition": "new"
     },
     {
@@ -1914,9 +2784,21 @@
       "condition": "new"
     },
     {
+      "name": "2026FordTransit Passenger WagonT-350 148\" Med Roof XL RWD301AOrder Code",
+      "vin": "1FBAX2CG9TKB26620",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/8ca3e1ba6c15.html",
+      "condition": "new"
+    },
+    {
       "name": "2027FordBronco SportBadlands 4x4400AEquipment Group",
       "vin": "3FMCR9DA0VRE21763",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/6293858ffa7b.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordBronco SportBadlands 4x4400AEquipment Group",
+      "vin": "3FMCR9DA0VRE21763",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/90d5ce710415.html",
       "condition": "new"
     },
     {
@@ -1926,9 +2808,21 @@
       "condition": "new"
     },
     {
+      "name": "2027FordBronco SportBadlands 4x4400AEquipment Group",
+      "vin": "3FMCR9DA1VRE21710",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/dfe39b4b4e46.html",
+      "condition": "new"
+    },
+    {
       "name": "2027FordBronco SportBig Bend 4x4200AEquipment Group Standard Package",
       "vin": "3FMCR9BNXVRE05205",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/1dc6730fd805.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordBronco SportBig Bend 4x4200AEquipment Group Standard Package",
+      "vin": "3FMCR9BNXVRE05205",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/3926f10c1298.html",
       "condition": "new"
     },
     {
@@ -1951,14 +2845,32 @@
     },
     {
       "name": "2027FordExplorerPlatinum 4WD600A-1Equipment Group 600a Standard Package4x4",
+      "vin": "1FMUK8HH1VGA05271",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/736604adf9c0.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordExplorerPlatinum 4WD600A-1Equipment Group 600a Standard Package4x4",
       "vin": "1FMUK8HH4VGA59776",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cbb4559bdf18.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordExplorerPlatinum 4WD600A-1Equipment Group 600a Standard Package4x4",
+      "vin": "1FMUK8HH4VGA59776",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f472d43d794c.html",
       "condition": "new"
     },
     {
       "name": "2027FordF-150King Ranch4x4Crew Cab",
       "vin": "1FTFW6LD0VFA22059",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/79c63f99f832.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordF-150King Ranch4x4Crew Cab",
+      "vin": "1FTFW6LD0VFA22059",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/d49ec3ac3225.html",
       "condition": "new"
     },
     {
@@ -1969,8 +2881,20 @@
     },
     {
       "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5LD4VFA17165",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/b07368db3fa4.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
       "vin": "1FTFW5LD4VFA14024",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/b01b08e2328a.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5LD4VFA14024",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/e82f3a6a7400.html",
       "condition": "new"
     },
     {
@@ -1981,14 +2905,32 @@
     },
     {
       "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5L85VFA25536",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/93bf1122460d.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
       "vin": "1FTFW5L83VFA21436",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/fb9acc3a87ce.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5L83VFA21436",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/7678665cb593.html",
       "condition": "new"
     },
     {
       "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Mid4x4Crew Cab",
       "vin": "1FTFW5LD3VFA27492",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/3d3e1c03267f.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Mid4x4Crew Cab",
+      "vin": "1FTFW5LD3VFA27492",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/2c420b25cd42.html",
       "condition": "new"
     },
     {
@@ -1999,14 +2941,32 @@
     },
     {
       "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5LD8VFA15533",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/b3e637fac222.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
       "vin": "1FTFW5L87VFA19592",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/550a6aa28926.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5L87VFA19592",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/c2e74877025b.html",
       "condition": "new"
     },
     {
       "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Mid4x4Crew Cab",
       "vin": "1FTFW5LD3VFA26052",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/6213d7cdc646.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box501A-0Equipment Group 501A Mid4x4Crew Cab",
+      "vin": "1FTFW5LD3VFA26052",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/9061667c69af.html",
       "condition": "new"
     },
     {
@@ -2017,14 +2977,32 @@
     },
     {
       "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5L88VFA25756",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/fea749353d95.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
       "vin": "1FTFW5LD8VFA18254",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/129583ab4df7.html",
       "condition": "new"
     },
     {
       "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5LD8VFA18254",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/82d06263b932.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
       "vin": "1FTFW5LD3VFA16394",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/eb696dbd053e.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordF-150Lariat 4WD Supercrew 5.5' Box502A-0Equipment Group 502a High4x4Crew Cab",
+      "vin": "1FTFW5LD3VFA16394",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/a35451230aa8.html",
       "condition": "new"
     },
     {
@@ -2035,8 +3013,20 @@
     },
     {
       "name": "2027FordF-150Tremor 4WD Supercrew 5.5' Box402AEquipment Group High4x4Crew Cab",
+      "vin": "1FTFW4L51VFA21564",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/24312fd4b60f.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordF-150Tremor 4WD Supercrew 5.5' Box402AEquipment Group High4x4Crew Cab",
       "vin": "1FTFW4L88VFA19711",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/c2fb01362e9e.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordF-150Tremor 4WD Supercrew 5.5' Box402AEquipment Group High4x4Crew Cab",
+      "vin": "1FTFW4L88VFA19711",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/272e099bb5af.html",
       "condition": "new"
     },
     {
@@ -2046,9 +3036,21 @@
       "condition": "new"
     },
     {
+      "name": "2027FordF-150XLT 4WD Supercrew 5.5' Box302A-0Equipment Group 302A Mid4x4Crew Cab",
+      "vin": "1FTFW3LDXVFA04635",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/883d27987e83.html",
+      "condition": "new"
+    },
+    {
       "name": "2027FordMaverickXLT AWD Supercrew301AEquipment GroupCrew Cab",
       "vin": "3FTTW8J33VRA20320",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/606ce671316d.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordMaverickXLT AWD Supercrew301AEquipment GroupCrew Cab",
+      "vin": "3FTTW8J33VRA20320",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cfe504045ea9.html",
       "condition": "new"
     },
     {
@@ -2059,14 +3061,44 @@
     },
     {
       "name": "2027FordSuper Duty F-350 SRWLariat 4WD Crew Cab 6.75' Box618AOrder Code4x4",
+      "vin": "1FT8W3BM1VEC65457",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/8c3a3765df53.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordSuper Duty F-350 SRWLariat 4WD Crew Cab 6.75' Box618AOrder Code4x4",
       "vin": "2FT8W3BM1VBA08682",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cf0c222ee6b7.html",
       "condition": "new"
     },
     {
       "name": "2027FordSuper Duty F-350 SRWLariat 4WD Crew Cab 6.75' Box618AOrder Code4x4",
+      "vin": "2FT8W3BM1VBA08682",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/7b9914a7f78b.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordSuper Duty F-350 SRWLariat 4WD Crew Cab 6.75' Box618AOrder Code4x4",
       "vin": "1FT8W3BM2VEC49297",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/36d1762db561.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordSuper Duty F-350 SRWLariat 4WD Crew Cab 6.75' Box618AOrder Code4x4",
+      "vin": "1FT8W3BM2VEC49297",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/699460a47dcd.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordSuper Duty F-350 SRWPlatinum 4WD Crew Cab 6.75' Box713AOrder Code4x4",
+      "vin": "2FT8W3BM4VBA15447",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/7385a363b0a4.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordTransit Cargo VanT-250 148\" Med Rf 9070 Gvwr RWD101AOrder Code",
+      "vin": "1FTBR1C80VKA28463",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/69d75165ed20.html",
       "condition": "new"
     },
     {
@@ -2079,6 +3111,12 @@
       "name": "2027FordTransit Cargo VanT-350 148\" El Hi Rf 9500 Gvwr RWD101AOrder Code",
       "vin": "1FTBW3XG8VKA45551",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/61c0fe33b0dc.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordTransit Cargo VanT-350 148\" El Hi Rf 9500 Gvwr RWD101AOrder Code",
+      "vin": "1FTBW3XG8VKA45551",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/255276e11c5a.html",
       "condition": "new"
     },
     {
@@ -2100,9 +3138,21 @@
       "condition": "new"
     },
     {
+      "name": "2027FordTransit Cargo VanT-250 148\" Med Rf 9070 Gvwr RWD101AOrder Code",
+      "vin": "1FTBR1C81VKA43215",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/610fc9434557.html",
+      "condition": "new"
+    },
+    {
       "name": "2027FordTransit Cargo VanT-350 148\" El Hi Rf 9500 Gvwr AWD101AOrder Code",
       "vin": "1FTBW3UG8VKA42606",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/cd467c283588.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordTransit Cargo VanT-350 148\" El Hi Rf 9500 Gvwr AWD101AOrder Code",
+      "vin": "1FTBW3UG8VKA42606",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/8513e327c6ed.html",
       "condition": "new"
     },
     {
@@ -2112,9 +3162,21 @@
       "condition": "new"
     },
     {
+      "name": "2027FordTransit Passenger WagonT-350 148\" Med Roof XL AWD301AOrder Code",
+      "vin": "1FBAX9CG6VKA29869",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/8349f4d25a00.html",
+      "condition": "new"
+    },
+    {
       "name": "2027FordTransit Passenger WagonT-350 Hd 148\" El High Roof XLT DRW AWD302AOrder Code",
       "vin": "1FBVU5XG4VKA24036",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/b2dce48989bb.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordTransit Passenger WagonT-350 Hd 148\" El High Roof XLT DRW AWD302AOrder Code",
+      "vin": "1FBVU5XG4VKA24036",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/f491de88b183.html",
       "condition": "new"
     },
     {
