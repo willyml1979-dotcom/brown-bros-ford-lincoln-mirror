@@ -1,6 +1,6 @@
 # Brown Bros Ford Lincoln
 
- dealership in Vancouver. AI-readable inventory mirror, about 530 vehicles.
+ dealership in Vancouver. AI-readable inventory mirror, about 537 vehicles.
 
 - Official website: https://www.brownbrosford.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/

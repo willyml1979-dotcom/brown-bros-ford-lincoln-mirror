@@ -7,7 +7,7 @@ Brown Bros Ford Lincoln is a  dealership in Vancouver. This site is an AI-readab
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/ and https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ (about 530 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/used/ and https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/ (about 537 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/llms.txt
