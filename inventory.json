@@ -1,7 +1,7 @@
 {
   "dealership": "Brown Bros Ford Lincoln",
-  "generated_at": "2026-11-18T16:50:24",
-  "vehicle_count": 537,
+  "generated_at": "2026-11-18T18:25:24",
+  "vehicle_count": 536,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -888,6 +888,12 @@
       "condition": "new"
     },
     {
+      "name": "2023FordF-150 LightningAWDCrew Cab",
+      "vin": "1FT6W1EV0PWG21183",
+      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/a70e5ce44c57.html",
+      "condition": "new"
+    },
+    {
       "name": "2023FordF-150Raptor 4WD Supercrew 5.5' Box4x4Crew Cab",
       "vin": "1FTFW1RG0PFA03485",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/9a15d248c4a8.html",
@@ -1483,12 +1489,6 @@
     },
     {
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
-      "vin": "1FTFW1RG3TFB40401",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/b591d22f80e9.html",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
       "vin": "1FTFW1RGXTFB89806",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/41904d6d759f.html",
       "condition": "new"
@@ -1533,12 +1533,6 @@
       "name": "2026FordF-150Raptor 4WD Supercrew 5.5' Box802AEquipment Group 374x4Crew Cab",
       "vin": "1FTFW1RG5TFB40030",
       "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/bb793c5b495e.html",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordF-150Stx 4WD Supercrew 5.5' Box200A-0Equipment Group 200A Mid4x4Crew Cab",
-      "vin": "1FTEW2LP7TKE21571",
-      "url": "https://willyml1979-dotcom.github.io/brown-bros-ford-lincoln-mirror/new/dd117c7730de.html",
       "condition": "new"
     },
     {
